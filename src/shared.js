@@ -1,4 +1,4 @@
-export const EXPANSION_CODE = "OM1";
+export const EXPANSION_CODE = "TLA";
 
 export const FORMATS = {
   PREMIER_DRAFT: {

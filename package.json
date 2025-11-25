@@ -1,7 +1,7 @@
 {
-  "name": "17lands-om1",
+  "name": "17lands-tla",
   "version": "0.1.0",
-  "homepage": "https://17lands-om1.vercel.app/",
+  "homepage": "https://17lands-tla.vercel.app/",
   "private": true,
   "dependencies": {
     "@emotion/react": "11.5.0",
