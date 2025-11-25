@@ -12,19 +12,17 @@ import { SELECTED_FORMAT, EXPANSION_CODE } from "./shared";
 import { LAST_RUN, START_DATE } from "./lastRun";
 import { calculateDiffFromAverageWinRate } from "./helpers";
 
-const SUPPORTED_ARCHETYPES = new Set([
-  "Azorius (WU)",
-  "Dimir (UB)",
-  "Rakdos (BR)",
-  "Gruul (RG)",
-  "Selesnya (GW)",
-]);
 const ARCHETYPE_NAMES = {
-  "Azorius (WU)": "Modified",
-  "Dimir (UB)": "Villains Connive",
-  "Rakdos (BR)": "Mayhem",
-  "Gruul (RG)": "Large Spells",
-  "Selesnya (GW)": "Web-slinging",
+  "Azorius (WU)": "Flyers",
+  "Dimir (UB)": "Draw two",
+  "Rakdos (BR)": "Fire nation aggro",
+  "Gruul (RG)": "Earth Rumble ramp",
+  "Selesnya (GW)": "Allies",
+  "Orzhov (WB)": "Sacrifice",
+  "Izzet (UR)": "Combat Lessons",
+  "Golgari (BG)": "+1/+1 Counters",
+  "Boros (RW)": "Go wide aggro",
+  "Simic (GU)": "Ramp + Lessons",
 };
 
 const StyledAccordionDetails = withStyles({
@@ -47,16 +45,14 @@ const DescriptionBlock = () => {
   const renderWinRatesByColor = useMemo(() => {
     return SORTED_WIN_RATES_BY_COLOR.map((c, i) => {
       const diff = calculateDiffFromAverageWinRate(c[1]);
-      const isSupported = SUPPORTED_ARCHETYPES.has(c[0]);
+      const archetypeName = ARCHETYPE_NAMES[c[0]];
 
       return (
         <li key={i}>
           <div style={{ minWidth: 120, display: "inline-block" }}>
-            {isSupported ? (
-              <Tooltip title={ARCHETYPE_NAMES[c[0]]} arrow>
-                <b style={{ cursor: "help" }}>
-                  <i>{c[0]}</i>
-                </b>
+            {archetypeName ? (
+              <Tooltip title={archetypeName} arrow>
+                <i style={{ cursor: "help" }}>{c[0]}</i>
               </Tooltip>
             ) : (
               <i>{c[0]}</i>
@@ -131,8 +127,8 @@ const DescriptionBlock = () => {
           style={{ maxWidth: 950, fontWeight: 400, fontSize: 16 }}
         >
           Lastly, here are the win rates by color pair for 17Lands users
-          (2-color decks + 2-color with splash decks). <b>Bolded archetypes</b>{" "}
-          are the supported archetypes for this format:
+          (2-color decks + 2-color with splash decks). Hover over an archetype
+          to see its description:
           <ol>{renderWinRatesByColor}</ol>
         </Typography>
       </StyledAccordionDetails>
