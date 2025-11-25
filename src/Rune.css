@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Keyrune';
+  src: url('./assets/keyrune/keyrune.eot');
+  src: url('./assets/keyrune/keyrune.eot?#iefix') format('embedded-opentype'),
+    url('./assets/keyrune/keyrune.woff2') format('woff2'),
+    url('./assets/keyrune/keyrune.woff') format('woff'),
+    url('./assets/keyrune/keyrune.ttf') format('truetype'),
+    url('./assets/keyrune/keyrune.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Numbers';
+  src: url('./assets/fonts/Numbers-Regular.woff2') format('woff2'),
+    url('./assets/fonts/Numbers-Regular.woff2') format('woff'),
+    url('./assets/fonts/Numbers-Regular.otf') format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
