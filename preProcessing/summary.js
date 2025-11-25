@@ -4,7 +4,7 @@ const { EXPANSION_CODE, SELECTED_FORMAT } = require("../src/shared");
 const now = new Date();
 const endDate = `${now.getFullYear()}-${now.getMonth() + 1}-${now.getDate()}`;
 
-const startDate = "2025-09-15";
+const startDate = "2025-11-15";
 const COLORS_URL = `https://www.17lands.com/color_ratings/data?expansion=${EXPANSION_CODE}&event_type=${SELECTED_FORMAT.slug}&start_date=${startDate}&end_date=${endDate}&combine_splash=true`;
 
 const colorNames = [

@@ -2,13 +2,8 @@
   {
     "name": "Aang's Iceberg",
     "type": "Enchantment",
-    "keywords": [
-      "Flash",
-      "Scry"
-    ],
-    "colors": [
-      "W"
-    ],
+    "keywords": ["Flash", "Scry"],
+    "colors": ["W"],
     "cmc": 3,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/7/2/720fbd87-b1c1-4b3b-97a1-46b943b115e3.jpg?1755043640",
@@ -17,9 +12,7 @@
   {
     "name": "Aang's Journey",
     "type": "Sorcery — Lesson",
-    "keywords": [
-      "Kicker"
-    ],
+    "keywords": ["Kicker"],
     "colors": [],
     "cmc": 2,
     "rarity": "common",
@@ -29,13 +22,7 @@
   {
     "name": "Aang, Swift Savior // Aang and La, Ocean's Fury",
     "type": "Legendary Creature — Human Avatar Ally // Legendary Creature — Avatar Spirit Ally",
-    "keywords": [
-      "Flying",
-      "Reach",
-      "Transform",
-      "Trample",
-      "Flash"
-    ],
+    "keywords": ["Flying", "Reach", "Transform", "Trample", "Flash"],
     "colors": [],
     "cmc": 3,
     "rarity": "rare",
@@ -45,10 +32,7 @@
   {
     "name": "Aang, at the Crossroads // Aang, Destined Savior",
     "type": "Legendary Creature — Human Avatar Ally // Legendary Creature — Avatar Ally",
-    "keywords": [
-      "Flying",
-      "Transform"
-    ],
+    "keywords": ["Flying", "Transform"],
     "colors": [],
     "cmc": 5,
     "rarity": "rare",
@@ -58,12 +42,8 @@
   {
     "name": "Aang, the Last Airbender",
     "type": "Legendary Creature — Human Avatar Ally",
-    "keywords": [
-      "Flying"
-    ],
-    "colors": [
-      "W"
-    ],
+    "keywords": ["Flying"],
+    "colors": ["W"],
     "cmc": 4,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/2/4/245e008c-e073-443f-9592-6f628c0026ec.jpg?1755237891",
@@ -73,10 +53,7 @@
     "name": "Abandon Attachments",
     "type": "Instant — Lesson",
     "keywords": [],
-    "colors": [
-      "R",
-      "U"
-    ],
+    "colors": ["R", "U"],
     "cmc": 2,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/7/4/74ca45a4-97ab-4255-9129-884e8b42b984.jpg?1755176484",
@@ -96,9 +73,7 @@
     "name": "Accumulate Wisdom",
     "type": "Instant — Lesson",
     "keywords": [],
-    "colors": [
-      "U"
-    ],
+    "colors": ["U"],
     "cmc": 2,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/a/6/a6335319-6c92-40d4-ab2d-c06c79049c30.jpg?1762428613",
@@ -118,10 +93,7 @@
     "name": "Air Nomad Legacy",
     "type": "Enchantment",
     "keywords": [],
-    "colors": [
-      "U",
-      "W"
-    ],
+    "colors": ["U", "W"],
     "cmc": 2,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/1/0/10874416-fa4c-4aa3-b885-4351d011d208.jpg?1762428793",
@@ -131,9 +103,7 @@
     "name": "Airbender Ascension",
     "type": "Enchantment",
     "keywords": [],
-    "colors": [
-      "W"
-    ],
+    "colors": ["W"],
     "cmc": 2,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/9/9/99a90d13-891c-45cc-b1d5-6080ebae5862.jpg?1761661703",
@@ -143,9 +113,7 @@
     "name": "Airbender's Reversal",
     "type": "Instant — Lesson",
     "keywords": [],
-    "colors": [
-      "W"
-    ],
+    "colors": ["W"],
     "cmc": 2,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/6/b/6b7078e4-2892-4b5f-83ab-90369e0d6dba.jpg?1762352841",
@@ -155,9 +123,7 @@
     "name": "Airbending Lesson",
     "type": "Instant — Lesson",
     "keywords": [],
-    "colors": [
-      "W"
-    ],
+    "colors": ["W"],
     "cmc": 3,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/e/2/e2bcd0a6-e94d-4a21-a334-a57459c1b8cc.jpg?1755202780",
@@ -176,12 +142,8 @@
   {
     "name": "Allies at Last",
     "type": "Instant",
-    "keywords": [
-      "Affinity"
-    ],
-    "colors": [
-      "G"
-    ],
+    "keywords": ["Affinity"],
+    "colors": ["G"],
     "cmc": 3,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/1/1/11a77897-2aba-4a9b-bbe6-1768ca9f12cb.jpg?1761665174",
@@ -190,12 +152,8 @@
   {
     "name": "Appa, Loyal Sky Bison",
     "type": "Legendary Creature — Bison Ally",
-    "keywords": [
-      "Flying"
-    ],
-    "colors": [
-      "W"
-    ],
+    "keywords": ["Flying"],
+    "colors": ["W"],
     "cmc": 6,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/a/9/a9b2a843-c6fe-4d19-801e-1538e4381ab0.jpg?1762812860",
@@ -204,13 +162,8 @@
   {
     "name": "Appa, Steadfast Guardian",
     "type": "Legendary Creature — Bison Ally",
-    "keywords": [
-      "Flying",
-      "Flash"
-    ],
-    "colors": [
-      "W"
-    ],
+    "keywords": ["Flying", "Flash"],
+    "colors": ["W"],
     "cmc": 4,
     "rarity": "mythic",
     "image": "https://cards.scryfall.io/normal/front/8/2/829d91e9-4878-4e55-a262-ac0d55b65d4e.jpg?1755040233",
@@ -219,10 +172,7 @@
   {
     "name": "Avatar Aang // Aang, Master of Elements",
     "type": "Legendary Creature — Human Avatar Ally // Legendary Creature — Avatar Ally",
-    "keywords": [
-      "Flying",
-      "Transform"
-    ],
+    "keywords": ["Flying", "Transform"],
     "colors": [],
     "cmc": 4,
     "rarity": "mythic",
@@ -232,13 +182,8 @@
   {
     "name": "Avatar Destiny",
     "type": "Enchantment — Aura",
-    "keywords": [
-      "Enchant",
-      "Mill"
-    ],
-    "colors": [
-      "G"
-    ],
+    "keywords": ["Enchant", "Mill"],
+    "colors": ["G"],
     "cmc": 4,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/4/d/4d74da72-8443-4fce-9d64-d2041f6a3292.jpg?1762259349",
@@ -248,9 +193,7 @@
     "name": "Avatar Enthusiasts",
     "type": "Creature — Human Peasant Ally",
     "keywords": [],
-    "colors": [
-      "W"
-    ],
+    "colors": ["W"],
     "cmc": 3,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/7/2/7292e5f2-d5a1-4e39-8f75-eba471819f04.jpg?1755016480",
@@ -260,9 +203,7 @@
     "name": "Avatar's Wrath",
     "type": "Sorcery",
     "keywords": [],
-    "colors": [
-      "W"
-    ],
+    "colors": ["W"],
     "cmc": 4,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/4/8/4811072d-fac0-40dd-a5cf-9694d51b12cf.jpg?1762435834",
@@ -272,9 +213,7 @@
     "name": "Azula Always Lies",
     "type": "Instant — Lesson",
     "keywords": [],
-    "colors": [
-      "B"
-    ],
+    "colors": ["B"],
     "cmc": 2,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/4/1/416b9207-a2af-44d1-9b87-4943f6e46d42.jpg?1755177591",
@@ -284,10 +223,7 @@
     "name": "Azula, Cunning Usurper",
     "type": "Legendary Creature — Human Noble Rogue",
     "keywords": [],
-    "colors": [
-      "B",
-      "U"
-    ],
+    "colors": ["B", "U"],
     "cmc": 5,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/d/a/daf30e1c-436d-4f23-b1d2-570619a4b7f5.jpg?1761665986",
@@ -297,9 +233,7 @@
     "name": "Azula, On the Hunt",
     "type": "Legendary Creature — Human Noble",
     "keywords": [],
-    "colors": [
-      "B"
-    ],
+    "colors": ["B"],
     "cmc": 4,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/1/3/1335a145-248a-4f1e-8760-9a5d531e14e3.jpg?1761662882",
@@ -319,9 +253,7 @@
     "name": "Badgermole",
     "type": "Creature — Badger Mole",
     "keywords": [],
-    "colors": [
-      "G"
-    ],
+    "colors": ["G"],
     "cmc": 5,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/a/a/aabbd420-b7fc-496f-9168-bad823d51d9e.jpg?1755177653",
@@ -331,9 +263,7 @@
     "name": "Badgermole Cub",
     "type": "Creature — Badger Mole",
     "keywords": [],
-    "colors": [
-      "G"
-    ],
+    "colors": ["G"],
     "cmc": 2,
     "rarity": "mythic",
     "image": "https://cards.scryfall.io/normal/front/3/4/340c5799-4964-44dd-8c48-8f3f3aba5211.jpg?1761665217",
@@ -353,9 +283,7 @@
     "name": "Beetle-Headed Merchants",
     "type": "Creature — Human Citizen",
     "keywords": [],
-    "colors": [
-      "B"
-    ],
+    "colors": ["B"],
     "cmc": 5,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/c/2/c2eed79f-38c1-4aac-9525-d54cb114f17f.jpg?1755177730",
@@ -365,10 +293,7 @@
     "name": "Beifong's Bounty Hunters",
     "type": "Creature — Human Mercenary",
     "keywords": [],
-    "colors": [
-      "B",
-      "G"
-    ],
+    "colors": ["B", "G"],
     "cmc": 4,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/4/f/4f88ec3a-44a7-4ae5-a68c-24294dabaeed.jpg?1762259589",
@@ -387,14 +312,8 @@
   {
     "name": "Benevolent River Spirit",
     "type": "Creature — Spirit",
-    "keywords": [
-      "Scry",
-      "Flying",
-      "Ward"
-    ],
-    "colors": [
-      "U"
-    ],
+    "keywords": ["Scry", "Flying", "Ward"],
+    "colors": ["U"],
     "cmc": 2,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/7/f/7ffb79cd-d170-4047-89c8-6e85188f30da.jpg?1762343409",
@@ -403,13 +322,8 @@
   {
     "name": "Bitter Work",
     "type": "Enchantment",
-    "keywords": [
-      "Exhaust"
-    ],
-    "colors": [
-      "G",
-      "R"
-    ],
+    "keywords": ["Exhaust"],
+    "colors": ["G", "R"],
     "cmc": 3,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/3/e/3e8de6a9-9859-4ed2-8ece-ef80a7209be9.jpg?1762201080",
@@ -419,9 +333,7 @@
     "name": "Boar-q-pine",
     "type": "Creature — Boar Porcupine",
     "keywords": [],
-    "colors": [
-      "R"
-    ],
+    "colors": ["R"],
     "cmc": 3,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/0/8/087a445c-5f63-45d6-83e8-20d22650db20.jpg?1762428877",
@@ -441,9 +353,7 @@
     "name": "Boiling Rock Rioter",
     "type": "Creature — Human Rogue Ally",
     "keywords": [],
-    "colors": [
-      "B"
-    ],
+    "colors": ["B"],
     "cmc": 3,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/7/3/739653cc-35c8-4a66-95d8-3e80fa6114f0.jpg?1761671608",
@@ -453,9 +363,7 @@
     "name": "Boomerang Basics",
     "type": "Sorcery — Lesson",
     "keywords": [],
-    "colors": [
-      "U"
-    ],
+    "colors": ["U"],
     "cmc": 1,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/1/7/17ab958a-abc6-472e-ad6a-97c731d89c74.jpg?1762247049",
@@ -465,9 +373,7 @@
     "name": "Bumi Bash",
     "type": "Sorcery",
     "keywords": [],
-    "colors": [
-      "R"
-    ],
+    "colors": ["R"],
     "cmc": 4,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/e/8/e8895479-26cb-4ee8-98ca-6d46c43f0dbd.jpg?1761853310",
@@ -477,9 +383,7 @@
     "name": "Bumi, King of Three Trials",
     "type": "Legendary Creature — Human Noble Ally",
     "keywords": [],
-    "colors": [
-      "G"
-    ],
+    "colors": ["G"],
     "cmc": 6,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/a/2/a268697b-22b0-4e1b-a5b6-d9be95025e57.jpg?1762203469",
@@ -488,13 +392,8 @@
   {
     "name": "Bumi, Unleashed",
     "type": "Legendary Creature — Human Noble Ally",
-    "keywords": [
-      "Trample"
-    ],
-    "colors": [
-      "G",
-      "R"
-    ],
+    "keywords": ["Trample"],
+    "colors": ["G", "R"],
     "cmc": 5,
     "rarity": "mythic",
     "image": "https://cards.scryfall.io/normal/front/b/2/b20a5185-7e31-4fc9-be11-9423bfc389bf.jpg?1761738689",
@@ -503,12 +402,8 @@
   {
     "name": "Buzzard-Wasp Colony",
     "type": "Creature — Bird Insect",
-    "keywords": [
-      "Flying"
-    ],
-    "colors": [
-      "B"
-    ],
+    "keywords": ["Flying"],
+    "colors": ["B"],
     "cmc": 4,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/4/2/42d83229-0555-4361-8964-4b525c825843.jpg?1755177960",
@@ -517,12 +412,8 @@
   {
     "name": "Callous Inspector",
     "type": "Creature — Human Soldier",
-    "keywords": [
-      "Menace"
-    ],
-    "colors": [
-      "B"
-    ],
+    "keywords": ["Menace"],
+    "colors": ["B"],
     "cmc": 1,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/f/2/f22610e9-6b14-4914-bb67-bd6723bec9aa.jpg?1762171027",
@@ -539,9 +430,7 @@
       "Swampcycling",
       "Deathtouch"
     ],
-    "colors": [
-      "B"
-    ],
+    "colors": ["B"],
     "cmc": 6,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/3/0/30a30bfb-f0f3-425b-b37d-20079ee27046.jpg?1763246743",
@@ -550,12 +439,8 @@
   {
     "name": "Cat-Gator",
     "type": "Creature — Fish Crocodile",
-    "keywords": [
-      "Lifelink"
-    ],
-    "colors": [
-      "B"
-    ],
+    "keywords": ["Lifelink"],
+    "colors": ["B"],
     "cmc": 7,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/e/c/ec83a825-79e6-42a4-919c-3bc498ff4433.jpg?1755178028",
@@ -564,13 +449,8 @@
   {
     "name": "Cat-Owl",
     "type": "Creature — Cat Bird",
-    "keywords": [
-      "Flying"
-    ],
-    "colors": [
-      "U",
-      "W"
-    ],
+    "keywords": ["Flying"],
+    "colors": ["U", "W"],
     "cmc": 4,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/d/7/d7df3391-dbe5-4eb4-85c1-037c5f3ea971.jpg?1755178074",
@@ -580,9 +460,7 @@
     "name": "Combustion Man",
     "type": "Legendary Creature — Human Assassin",
     "keywords": [],
-    "colors": [
-      "R"
-    ],
+    "colors": ["R"],
     "cmc": 5,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/8/6/86f7399d-6876-4e85-ba34-ff1f97dc144a.jpg?1762259163",
@@ -592,9 +470,7 @@
     "name": "Combustion Technique",
     "type": "Instant — Lesson",
     "keywords": [],
-    "colors": [
-      "R"
-    ],
+    "colors": ["R"],
     "cmc": 2,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/f/d/fdcca576-2ef2-44cc-9944-a92bd146444a.jpg?1762259157",
@@ -603,12 +479,8 @@
   {
     "name": "Compassionate Healer",
     "type": "Creature — Human Cleric Ally",
-    "keywords": [
-      "Scry"
-    ],
-    "colors": [
-      "W"
-    ],
+    "keywords": ["Scry"],
+    "colors": ["W"],
     "cmc": 2,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/8/8/88d5f8fd-d4de-4e64-9b74-e53719ffbcdc.jpg?1761823261",
@@ -618,9 +490,7 @@
     "name": "Corrupt Court Official",
     "type": "Creature — Human Advisor",
     "keywords": [],
-    "colors": [
-      "B"
-    ],
+    "colors": ["B"],
     "cmc": 2,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/4/6/4692610e-d64c-438e-b5ad-0cf67fd57f1f.jpg?1755203002",
@@ -630,9 +500,7 @@
     "name": "Crashing Wave",
     "type": "Sorcery",
     "keywords": [],
-    "colors": [
-      "U"
-    ],
+    "colors": ["U"],
     "cmc": 2,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/9/f/9fd02eb4-1ef5-4a14-89a8-b25e720e8016.jpg?1762353511",
@@ -642,9 +510,7 @@
     "name": "Crescent Island Temple",
     "type": "Legendary Enchantment — Shrine",
     "keywords": [],
-    "colors": [
-      "R"
-    ],
+    "colors": ["R"],
     "cmc": 4,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/0/4/04c85150-269e-4158-a1b9-bd11bc6b7d79.jpg?1761663845",
@@ -653,13 +519,8 @@
   {
     "name": "Cruel Administrator",
     "type": "Creature — Human Soldier",
-    "keywords": [
-      "Raid"
-    ],
-    "colors": [
-      "B",
-      "R"
-    ],
+    "keywords": ["Raid"],
+    "colors": ["B", "R"],
     "cmc": 5,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/9/d/9d70707b-2e25-40b1-80a8-9a5492bca7e2.jpg?1762259596",
@@ -669,9 +530,7 @@
     "name": "Cunning Maneuver",
     "type": "Instant",
     "keywords": [],
-    "colors": [
-      "R"
-    ],
+    "colors": ["R"],
     "cmc": 2,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/0/f/0ff7c993-ba29-43b0-9639-7c4bc0292fa2.jpg?1761663909",
@@ -681,9 +540,7 @@
     "name": "Curious Farm Animals",
     "type": "Creature — Boar Elk Bird Ox",
     "keywords": [],
-    "colors": [
-      "W"
-    ],
+    "colors": ["W"],
     "cmc": 1,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/2/4/2402d759-84b6-41d2-ad78-9333974e9222.jpg?1762428521",
@@ -693,9 +550,7 @@
     "name": "Cycle of Renewal",
     "type": "Instant — Lesson",
     "keywords": [],
-    "colors": [
-      "G"
-    ],
+    "colors": ["G"],
     "cmc": 3,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/2/3/233f4a05-057b-48f4-8f56-8d4a060a40e4.jpg?1761665283",
@@ -705,10 +560,7 @@
     "name": "Dai Li Agents",
     "type": "Creature — Human Soldier",
     "keywords": [],
-    "colors": [
-      "B",
-      "G"
-    ],
+    "colors": ["B", "G"],
     "cmc": 5,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/9/d/9ddb8715-341b-400a-b6eb-f3f90518157c.jpg?1761665964",
@@ -718,9 +570,7 @@
     "name": "Dai Li Indoctrination",
     "type": "Sorcery — Lesson",
     "keywords": [],
-    "colors": [
-      "B"
-    ],
+    "colors": ["B"],
     "cmc": 2,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/e/c/eca652b8-44f1-4bd9-b4bf-036eeead13aa.jpg?1755178171",
@@ -730,9 +580,7 @@
     "name": "Day of Black Sun",
     "type": "Sorcery",
     "keywords": [],
-    "colors": [
-      "B"
-    ],
+    "colors": ["B"],
     "cmc": 2,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/d/0/d0e24797-3e45-4c2b-b4b0-1ef44d42eaee.jpg?1761663177",
@@ -742,9 +590,7 @@
     "name": "Deadly Precision",
     "type": "Sorcery",
     "keywords": [],
-    "colors": [
-      "B"
-    ],
+    "colors": ["B"],
     "cmc": 1,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/4/6/4661daf6-d960-4278-8946-70948efaf99d.jpg?1761853341",
@@ -754,9 +600,7 @@
     "name": "Deserter's Disciple",
     "type": "Creature — Human Rebel Ally",
     "keywords": [],
-    "colors": [
-      "R"
-    ],
+    "colors": ["R"],
     "cmc": 2,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/1/4/14f2ed5a-042b-4cce-82ad-cfb4bd511d98.jpg?1755178284",
@@ -766,9 +610,7 @@
     "name": "Destined Confrontation",
     "type": "Sorcery",
     "keywords": [],
-    "colors": [
-      "W"
-    ],
+    "colors": ["W"],
     "cmc": 4,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/d/4/d4605cf7-03bc-4a7f-b50a-49b83b09b54d.jpg?1762258651",
@@ -778,9 +620,7 @@
     "name": "Diligent Zookeeper",
     "type": "Creature — Human Citizen Ally",
     "keywords": [],
-    "colors": [
-      "G"
-    ],
+    "colors": ["G"],
     "cmc": 4,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/2/1/21f52564-9820-42dc-a08d-459d51afc397.jpg?1761737835",
@@ -789,14 +629,8 @@
   {
     "name": "Dragonfly Swarm",
     "type": "Creature — Dragon Insect",
-    "keywords": [
-      "Flying",
-      "Ward"
-    ],
-    "colors": [
-      "R",
-      "U"
-    ],
+    "keywords": ["Flying", "Ward"],
+    "colors": ["R", "U"],
     "cmc": 3,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/1/6/16be5cc4-b15a-4c5e-8a6e-05c87b519127.jpg?1761665933",
@@ -805,13 +639,8 @@
   {
     "name": "Earth King's Lieutenant",
     "type": "Creature — Human Soldier Ally",
-    "keywords": [
-      "Trample"
-    ],
-    "colors": [
-      "G",
-      "W"
-    ],
+    "keywords": ["Trample"],
+    "colors": ["G", "W"],
     "cmc": 2,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/4/5/4533d155-5c56-41a5-9d76-2d1414ac47c9.jpg?1761666091",
@@ -821,9 +650,7 @@
     "name": "Earth Kingdom General",
     "type": "Creature — Human Soldier Ally",
     "keywords": [],
-    "colors": [
-      "G"
-    ],
+    "colors": ["G"],
     "cmc": 4,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/8/6/8688fce5-74b1-41e1-a59a-05a3878a75cb.jpg?1762259365",
@@ -833,9 +660,7 @@
     "name": "Earth Kingdom Jailer",
     "type": "Creature — Human Soldier Ally",
     "keywords": [],
-    "colors": [
-      "W"
-    ],
+    "colors": ["W"],
     "cmc": 3,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/9/2/9207362c-3605-4794-803f-ad1d0175fcca.jpg?1762203229",
@@ -844,12 +669,8 @@
   {
     "name": "Earth Kingdom Protectors",
     "type": "Creature — Human Soldier Ally",
-    "keywords": [
-      "Vigilance"
-    ],
-    "colors": [
-      "W"
-    ],
+    "keywords": ["Vigilance"],
+    "colors": ["W"],
     "cmc": 1,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/d/2/d263472e-1d75-4cb9-8f7b-986fa22bc841.jpg?1762258679",
@@ -858,13 +679,8 @@
   {
     "name": "Earth Kingdom Soldier",
     "type": "Creature — Human Soldier",
-    "keywords": [
-      "Vigilance"
-    ],
-    "colors": [
-      "G",
-      "W"
-    ],
+    "keywords": ["Vigilance"],
+    "colors": ["G", "W"],
     "cmc": 5,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/2/d/2d543d35-945a-4ffa-beb7-7c5d4f894f79.jpg?1755178389",
@@ -873,12 +689,8 @@
   {
     "name": "Earth Rumble",
     "type": "Sorcery",
-    "keywords": [
-      "Fight"
-    ],
-    "colors": [
-      "G"
-    ],
+    "keywords": ["Fight"],
+    "colors": ["G"],
     "cmc": 4,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/6/2/62730505-56f1-4043-a8b9-4fb7bc508b47.jpg?1755178455",
@@ -887,13 +699,8 @@
   {
     "name": "Earth Rumble Wrestlers",
     "type": "Creature — Human Warrior Performer",
-    "keywords": [
-      "Reach"
-    ],
-    "colors": [
-      "G",
-      "R"
-    ],
+    "keywords": ["Reach"],
+    "colors": ["G", "R"],
     "cmc": 4,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/7/4/74fca0b8-12e1-405f-b999-160d65fe0ade.jpg?1761916668",
@@ -903,10 +710,7 @@
     "name": "Earth Village Ruffians",
     "type": "Creature — Human Soldier Rogue",
     "keywords": [],
-    "colors": [
-      "B",
-      "G"
-    ],
+    "colors": ["B", "G"],
     "cmc": 3,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/5/6/56d4e0b7-232f-4953-84a3-e6f17781aa45.jpg?1755178535",
@@ -915,12 +719,8 @@
   {
     "name": "Earthbender Ascension",
     "type": "Enchantment",
-    "keywords": [
-      "Landfall"
-    ],
-    "colors": [
-      "G"
-    ],
+    "keywords": ["Landfall"],
+    "colors": ["G"],
     "cmc": 3,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/5/9/590a58ab-5e98-4031-8aa6-ce396dc1429f.jpg?1762259403",
@@ -930,9 +730,7 @@
     "name": "Earthbending Lesson",
     "type": "Sorcery — Lesson",
     "keywords": [],
-    "colors": [
-      "G"
-    ],
+    "colors": ["G"],
     "cmc": 4,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/e/c/eccd63b3-3a3a-4661-9d6e-fb8152429bdb.jpg?1755040271",
@@ -942,9 +740,7 @@
     "name": "Earthen Ally",
     "type": "Creature — Human Soldier Ally",
     "keywords": [],
-    "colors": [
-      "G"
-    ],
+    "colors": ["G"],
     "cmc": 1,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/d/7/d7a0f2d9-efa4-4a53-a24b-36694457bd1c.jpg?1762352947",
@@ -954,9 +750,7 @@
     "name": "Elemental Teachings",
     "type": "Instant — Lesson",
     "keywords": [],
-    "colors": [
-      "G"
-    ],
+    "colors": ["G"],
     "cmc": 5,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/c/a/cac8ac35-6860-4839-ab85-93d409206c08.jpg?1762259462",
@@ -966,9 +760,7 @@
     "name": "Ember Island Production",
     "type": "Sorcery",
     "keywords": [],
-    "colors": [
-      "U"
-    ],
+    "colors": ["U"],
     "cmc": 5,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/0/f/0f79a7fc-36b1-4397-8e67-6638379d3a38.jpg?1762258854",
@@ -987,13 +779,8 @@
   {
     "name": "Enter the Avatar State",
     "type": "Instant — Lesson",
-    "keywords": [
-      "Lifelink",
-      "First strike"
-    ],
-    "colors": [
-      "W"
-    ],
+    "keywords": ["Lifelink", "First strike"],
+    "colors": ["W"],
     "cmc": 1,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/a/8/a8f3d2cb-d073-4df8-8769-49612628a377.jpg?1762201133",
@@ -1003,9 +790,7 @@
     "name": "Epic Downfall",
     "type": "Sorcery",
     "keywords": [],
-    "colors": [
-      "B"
-    ],
+    "colors": ["B"],
     "cmc": 2,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/3/b/3b4a6804-04f5-4467-bb1c-9466a47bc55f.jpg?1755203199",
@@ -1015,9 +800,7 @@
     "name": "Fancy Footwork",
     "type": "Instant — Lesson",
     "keywords": [],
-    "colors": [
-      "W"
-    ],
+    "colors": ["W"],
     "cmc": 3,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/9/c/9c59f8c5-4063-4e5a-b684-fde175c4a981.jpg?1761823323",
@@ -1027,9 +810,7 @@
     "name": "Fatal Fissure",
     "type": "Instant",
     "keywords": [],
-    "colors": [
-      "B"
-    ],
+    "colors": ["B"],
     "cmc": 2,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/3/3/3343933d-4425-4ede-8d92-876bd0c6df60.jpg?1762258942",
@@ -1038,12 +819,8 @@
   {
     "name": "Fated Firepower",
     "type": "Enchantment",
-    "keywords": [
-      "Flash"
-    ],
-    "colors": [
-      "R"
-    ],
+    "keywords": ["Flash"],
+    "colors": ["R"],
     "cmc": 3,
     "rarity": "mythic",
     "image": "https://cards.scryfall.io/normal/front/5/1/51352127-1f86-42e9-b4ca-2fd58b14e86b.jpg?1755040164",
@@ -1053,11 +830,7 @@
     "name": "Fire Lord Azula",
     "type": "Legendary Creature — Human Noble",
     "keywords": [],
-    "colors": [
-      "B",
-      "R",
-      "U"
-    ],
+    "colors": ["B", "R", "U"],
     "cmc": 4,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/b/c/bc6146bf-f0c6-4557-af6a-74c643d5fc01.jpg?1761666167",
@@ -1067,11 +840,7 @@
     "name": "Fire Lord Zuko",
     "type": "Legendary Creature — Human Noble Ally",
     "keywords": [],
-    "colors": [
-      "B",
-      "R",
-      "W"
-    ],
+    "colors": ["B", "R", "W"],
     "cmc": 3,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/e/6/e62d3bcc-7bb4-42be-90a9-caf3c1caa29d.jpg?1755043707",
@@ -1080,12 +849,8 @@
   {
     "name": "Fire Nation Attacks",
     "type": "Instant",
-    "keywords": [
-      "Flashback"
-    ],
-    "colors": [
-      "R"
-    ],
+    "keywords": ["Flashback"],
+    "colors": ["R"],
     "cmc": 5,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/9/c/9cc10845-8989-46ca-a57a-fd728fca0729.jpg?1758285149",
@@ -1095,9 +860,7 @@
     "name": "Fire Nation Cadets",
     "type": "Creature — Human Soldier",
     "keywords": [],
-    "colors": [
-      "R"
-    ],
+    "colors": ["R"],
     "cmc": 1,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/1/a/1a3a862c-9c9a-41cd-94d1-2d0cff22a6cd.jpg?1761853102",
@@ -1106,12 +869,8 @@
   {
     "name": "Fire Nation Engineer",
     "type": "Creature — Human Artificer",
-    "keywords": [
-      "Raid"
-    ],
-    "colors": [
-      "B"
-    ],
+    "keywords": ["Raid"],
+    "colors": ["B"],
     "cmc": 3,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/5/d/5daba108-277d-46c8-ac35-7610f4786813.jpg?1755203555",
@@ -1130,12 +889,8 @@
   {
     "name": "Fire Nation Raider",
     "type": "Creature — Human Soldier",
-    "keywords": [
-      "Raid"
-    ],
-    "colors": [
-      "R"
-    ],
+    "keywords": ["Raid"],
+    "colors": ["R"],
     "cmc": 4,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/e/d/ede1bbdb-c726-46e3-aaf1-b8cf2be2c341.jpg?1762259209",
@@ -1144,10 +899,7 @@
   {
     "name": "Fire Nation Warship",
     "type": "Artifact — Vehicle",
-    "keywords": [
-      "Reach",
-      "Crew"
-    ],
+    "keywords": ["Reach", "Crew"],
     "colors": [],
     "cmc": 3,
     "rarity": "uncommon",
@@ -1157,13 +909,8 @@
   {
     "name": "Fire Navy Trebuchet",
     "type": "Artifact Creature — Wall",
-    "keywords": [
-      "Reach",
-      "Defender"
-    ],
-    "colors": [
-      "B"
-    ],
+    "keywords": ["Reach", "Defender"],
+    "colors": ["B"],
     "cmc": 3,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/e/5/e58372cc-9a89-47a4-a0db-df5435e26cd3.jpg?1762258898",
@@ -1173,9 +920,7 @@
     "name": "Fire Sages",
     "type": "Creature — Human Cleric",
     "keywords": [],
-    "colors": [
-      "R"
-    ],
+    "colors": ["R"],
     "cmc": 2,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/7/1/71a9fa44-306f-417a-a9d9-991aff95025c.jpg?1755203784",
@@ -1185,9 +930,7 @@
     "name": "Firebender Ascension",
     "type": "Enchantment",
     "keywords": [],
-    "colors": [
-      "R"
-    ],
+    "colors": ["R"],
     "cmc": 2,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/2/9/2929b702-03c6-4cf0-a3f7-61b27f4803be.jpg?1762171125",
@@ -1196,12 +939,8 @@
   {
     "name": "Firebending Lesson",
     "type": "Instant — Lesson",
-    "keywords": [
-      "Kicker"
-    ],
-    "colors": [
-      "R"
-    ],
+    "keywords": ["Kicker"],
+    "colors": ["R"],
     "cmc": 1,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/f/a/fa940e68-010e-4b68-be8a-555d7068f7b4.jpg?1762561958",
@@ -1210,12 +949,8 @@
   {
     "name": "Firebending Student",
     "type": "Creature — Human Monk",
-    "keywords": [
-      "Prowess"
-    ],
-    "colors": [
-      "R"
-    ],
+    "keywords": ["Prowess"],
+    "colors": ["R"],
     "cmc": 2,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/3/b/3b366f59-16fe-43cb-888d-1f93ef8fd332.jpg?1761664003",
@@ -1224,12 +959,8 @@
   {
     "name": "First-Time Flyer",
     "type": "Creature — Human Pilot Ally",
-    "keywords": [
-      "Flying"
-    ],
-    "colors": [
-      "U"
-    ],
+    "keywords": ["Flying"],
+    "colors": ["U"],
     "cmc": 2,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/e/a/ea22d29d-3a62-4ae2-91d5-21a678be9b48.jpg?1755203850",
@@ -1238,12 +969,8 @@
   {
     "name": "Flexible Waterbender",
     "type": "Creature — Human Warrior Ally",
-    "keywords": [
-      "Vigilance"
-    ],
-    "colors": [
-      "U"
-    ],
+    "keywords": ["Vigilance"],
+    "colors": ["U"],
     "cmc": 4,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/1/4/1447ebce-7e48-4b21-a39c-740920538bdd.jpg?1755203891",
@@ -1253,9 +980,7 @@
     "name": "Flopsie, Bumi's Buddy",
     "type": "Legendary Creature — Ape Goat",
     "keywords": [],
-    "colors": [
-      "G"
-    ],
+    "colors": ["G"],
     "cmc": 6,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/0/8/082f4abc-c09f-42cf-977f-060875dfd411.jpg?1755203931",
@@ -1275,9 +1000,7 @@
     "name": "Foggy Swamp Hunters",
     "type": "Creature — Human Ranger Ally",
     "keywords": [],
-    "colors": [
-      "B"
-    ],
+    "colors": ["B"],
     "cmc": 4,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/3/f/3f6e5869-ca25-4b98-a844-8a498cb40aab.jpg?1762343628",
@@ -1286,13 +1009,8 @@
   {
     "name": "Foggy Swamp Spirit Keeper",
     "type": "Creature — Human Druid Ally",
-    "keywords": [
-      "Lifelink"
-    ],
-    "colors": [
-      "B",
-      "U"
-    ],
+    "keywords": ["Lifelink"],
+    "colors": ["B", "U"],
     "cmc": 3,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/c/d/cd624be9-e960-4485-a8a9-2d5f2dd51777.jpg?1761994610",
@@ -1302,9 +1020,7 @@
     "name": "Foggy Swamp Vinebender",
     "type": "Creature — Human Plant Ally",
     "keywords": [],
-    "colors": [
-      "G"
-    ],
+    "colors": ["G"],
     "cmc": 4,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/7/8/78a75317-94f7-47a4-b4da-5a027fa73248.jpg?1762428756",
@@ -1314,9 +1030,7 @@
     "name": "Foggy Swamp Visions",
     "type": "Sorcery",
     "keywords": [],
-    "colors": [
-      "B"
-    ],
+    "colors": ["B"],
     "cmc": 3,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/3/a/3a46deaa-88f7-4eec-aa99-b85073847918.jpg?1761737411",
@@ -1326,9 +1040,7 @@
     "name": "Forecasting Fortune Teller",
     "type": "Creature — Human Advisor Ally",
     "keywords": [],
-    "colors": [
-      "U"
-    ],
+    "colors": ["U"],
     "cmc": 2,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/0/2/023e7ad4-6af0-4f29-a716-27a313974227.jpg?1761823501",
@@ -1337,12 +1049,8 @@
   {
     "name": "Gather the White Lotus",
     "type": "Sorcery",
-    "keywords": [
-      "Scry"
-    ],
-    "colors": [
-      "W"
-    ],
+    "keywords": ["Scry"],
+    "colors": ["W"],
     "cmc": 5,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/9/6/96e2b3d0-f060-4f3c-9d12-a0444b202008.jpg?1762258726",
@@ -1351,12 +1059,8 @@
   {
     "name": "Geyser Leaper",
     "type": "Creature — Human Warrior Ally",
-    "keywords": [
-      "Flying"
-    ],
-    "colors": [
-      "U"
-    ],
+    "keywords": ["Flying"],
+    "colors": ["U"],
     "cmc": 5,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/4/d/4d25428d-e5a5-43c4-8544-43120ed1c4d5.jpg?1762590547",
@@ -1365,15 +1069,8 @@
   {
     "name": "Giant Koi",
     "type": "Creature — Fish",
-    "keywords": [
-      "Islandcycling",
-      "Landcycling",
-      "Typecycling",
-      "Cycling"
-    ],
-    "colors": [
-      "U"
-    ],
+    "keywords": ["Islandcycling", "Landcycling", "Typecycling", "Cycling"],
+    "colors": ["U"],
     "cmc": 6,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/3/9/3938ec1f-979c-48e5-bb13-bebace006a8f.jpg?1755684333",
@@ -1382,13 +1079,8 @@
   {
     "name": "Glider Kids",
     "type": "Creature — Human Pilot Ally",
-    "keywords": [
-      "Scry",
-      "Flying"
-    ],
-    "colors": [
-      "W"
-    ],
+    "keywords": ["Scry", "Flying"],
+    "colors": ["W"],
     "cmc": 3,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/0/6/0613afb5-4cee-4132-8adf-404767ed8d07.jpg?1755204256",
@@ -1397,12 +1089,8 @@
   {
     "name": "Glider Staff",
     "type": "Artifact — Equipment",
-    "keywords": [
-      "Equip"
-    ],
-    "colors": [
-      "W"
-    ],
+    "keywords": ["Equip"],
+    "colors": ["W"],
     "cmc": 3,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/7/5/7517f2eb-a24d-49f6-82bf-08de55d3789a.jpg?1761825792",
@@ -1412,9 +1100,7 @@
     "name": "Gran-Gran",
     "type": "Legendary Creature — Human Peasant Ally",
     "keywords": [],
-    "colors": [
-      "U"
-    ],
+    "colors": ["U"],
     "cmc": 1,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/f/a/fa434b41-e5f7-4989-865a-95db67b05cb1.jpg?1761672126",
@@ -1424,9 +1110,7 @@
     "name": "Great Divide Guide",
     "type": "Creature — Human Scout Ally",
     "keywords": [],
-    "colors": [
-      "G"
-    ],
+    "colors": ["G"],
     "cmc": 2,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/c/c/cc3063ec-5ea6-46c1-8331-c740cbaf6c76.jpg?1762344821",
@@ -1436,10 +1120,7 @@
     "name": "Guru Pathik",
     "type": "Legendary Creature — Human Monk Ally",
     "keywords": [],
-    "colors": [
-      "G",
-      "U"
-    ],
+    "colors": ["G", "U"],
     "cmc": 4,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/2/2/224a2241-0dce-4008-8d9c-86db40ec5f8b.jpg?1761666113",
@@ -1448,12 +1129,8 @@
   {
     "name": "Hakoda, Selfless Commander",
     "type": "Legendary Creature — Human Warrior Ally",
-    "keywords": [
-      "Vigilance"
-    ],
-    "colors": [
-      "W"
-    ],
+    "keywords": ["Vigilance"],
+    "colors": ["W"],
     "cmc": 4,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/9/a/9aef3ddb-9bb7-42c8-975b-b1917955a416.jpg?1762551702",
@@ -1462,13 +1139,8 @@
   {
     "name": "Hama, the Bloodbender",
     "type": "Legendary Creature — Human Warlock",
-    "keywords": [
-      "Mill"
-    ],
-    "colors": [
-      "B",
-      "U"
-    ],
+    "keywords": ["Mill"],
+    "colors": ["B", "U"],
     "cmc": 5,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/6/f/6fa1197d-7b19-4d86-81e2-5c87de87757b.jpg?1761666205",
@@ -1478,9 +1150,7 @@
     "name": "Haru, Hidden Talent",
     "type": "Legendary Creature — Human Peasant Ally",
     "keywords": [],
-    "colors": [
-      "G"
-    ],
+    "colors": ["G"],
     "cmc": 2,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/9/6/9657a0c0-2c26-4331-8e62-f032265a01af.jpg?1755204333",
@@ -1490,9 +1160,7 @@
     "name": "Heartless Act",
     "type": "Instant",
     "keywords": [],
-    "colors": [
-      "B"
-    ],
+    "colors": ["B"],
     "cmc": 2,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/b/5/b57c57a8-d72b-4c6c-a2db-a7ef61190f42.jpg?1755204390",
@@ -1502,10 +1170,7 @@
     "name": "Hei Bai, Spirit of Balance",
     "type": "Legendary Creature — Bear Spirit",
     "keywords": [],
-    "colors": [
-      "B",
-      "W"
-    ],
+    "colors": ["B", "W"],
     "cmc": 4,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/0/6/060d24e0-1567-41f1-ae8c-2d3b1834df3c.jpg?1755204446",
@@ -1515,10 +1180,7 @@
     "name": "Hermitic Herbalist",
     "type": "Creature — Human Druid Ally",
     "keywords": [],
-    "colors": [
-      "G",
-      "U"
-    ],
+    "colors": ["G", "U"],
     "cmc": 2,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/5/d/5d0ee441-a057-41b5-abb8-dc86864ac248.jpg?1762354818",
@@ -1527,12 +1189,8 @@
   {
     "name": "Hog-Monkey",
     "type": "Creature — Boar Monkey",
-    "keywords": [
-      "Exhaust"
-    ],
-    "colors": [
-      "B"
-    ],
+    "keywords": ["Exhaust"],
+    "colors": ["B"],
     "cmc": 3,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/4/f/4f442970-5355-4abf-8684-17daaa8e469b.jpg?1755204567",
@@ -1541,12 +1199,8 @@
   {
     "name": "Honest Work",
     "type": "Enchantment — Aura",
-    "keywords": [
-      "Enchant"
-    ],
-    "colors": [
-      "U"
-    ],
+    "keywords": ["Enchant"],
+    "colors": ["U"],
     "cmc": 1,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/5/7/57e0ccb0-22f0-4e4d-9a47-c4fec2c7f251.jpg?1761662041",
@@ -1556,9 +1210,7 @@
     "name": "How to Start a Riot",
     "type": "Instant — Lesson",
     "keywords": [],
-    "colors": [
-      "R"
-    ],
+    "colors": ["R"],
     "cmc": 3,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/2/3/23b3bf1e-ea85-47f5-8473-4d16615f68d7.jpg?1755204618",
@@ -1567,14 +1219,8 @@
   {
     "name": "Iguana Parrot",
     "type": "Creature — Lizard Bird Pirate",
-    "keywords": [
-      "Flying",
-      "Prowess",
-      "Vigilance"
-    ],
-    "colors": [
-      "U"
-    ],
+    "keywords": ["Flying", "Prowess", "Vigilance"],
+    "colors": ["U"],
     "cmc": 3,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/7/f/7faa3e3d-c08a-4908-85ef-1370d3f90815.jpg?1755204775",
@@ -1583,12 +1229,8 @@
   {
     "name": "Invasion Reinforcements",
     "type": "Creature — Human Warrior Ally",
-    "keywords": [
-      "Flash"
-    ],
-    "colors": [
-      "W"
-    ],
+    "keywords": ["Flash"],
+    "colors": ["W"],
     "cmc": 2,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/b/8/b8845bba-d116-43cd-8ae0-e553f3324d66.jpg?1762353567",
@@ -1597,12 +1239,8 @@
   {
     "name": "Invasion Submersible",
     "type": "Artifact — Vehicle",
-    "keywords": [
-      "Exhaust"
-    ],
-    "colors": [
-      "U"
-    ],
+    "keywords": ["Exhaust"],
+    "colors": ["U"],
     "cmc": 3,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/a/f/af5299f5-1633-4c07-ade5-fd47e29ea4aa.jpg?1761853442",
@@ -1612,9 +1250,7 @@
     "name": "Invasion Tactics",
     "type": "Enchantment",
     "keywords": [],
-    "colors": [
-      "G"
-    ],
+    "colors": ["G"],
     "cmc": 5,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/2/7/27c6330d-49f6-4707-b4d4-d1411fa422eb.jpg?1761665321",
@@ -1624,9 +1260,7 @@
     "name": "Iroh's Demonstration",
     "type": "Sorcery — Lesson",
     "keywords": [],
-    "colors": [
-      "R"
-    ],
+    "colors": ["R"],
     "cmc": 2,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/1/8/18d15fed-1f8f-4407-a221-a47ce75001a8.jpg?1762259233",
@@ -1636,11 +1270,7 @@
     "name": "Iroh, Grand Lotus",
     "type": "Legendary Creature — Human Noble Ally",
     "keywords": [],
-    "colors": [
-      "G",
-      "R",
-      "U"
-    ],
+    "colors": ["G", "R", "U"],
     "cmc": 6,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/8/7/879b73d3-4552-4fdc-baee-c4d097ae9a4f.jpg?1761666299",
@@ -1649,13 +1279,8 @@
   {
     "name": "Iroh, Tea Master",
     "type": "Legendary Creature — Human Citizen Ally",
-    "keywords": [
-      "Food"
-    ],
-    "colors": [
-      "R",
-      "W"
-    ],
+    "keywords": ["Food"],
+    "colors": ["R", "W"],
     "cmc": 3,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/d/1/d1f5e10d-0a89-4129-9717-a921f20d3616.jpg?1762171461",
@@ -1665,9 +1290,7 @@
     "name": "It'll Quench Ya!",
     "type": "Instant — Lesson",
     "keywords": [],
-    "colors": [
-      "U"
-    ],
+    "colors": ["U"],
     "cmc": 2,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/4/7/47c25e41-f43c-4447-81b5-b9631448bd29.jpg?1755237828",
@@ -1687,9 +1310,7 @@
     "name": "Jeong Jeong's Deserters",
     "type": "Creature — Human Rebel Ally",
     "keywords": [],
-    "colors": [
-      "W"
-    ],
+    "colors": ["W"],
     "cmc": 2,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/0/6/060966f9-5e56-4512-9ef3-2b216daf093c.jpg?1755204968",
@@ -1698,12 +1319,8 @@
   {
     "name": "Jeong Jeong, the Deserter",
     "type": "Legendary Creature — Human Rebel Ally",
-    "keywords": [
-      "Exhaust"
-    ],
-    "colors": [
-      "R"
-    ],
+    "keywords": ["Exhaust"],
+    "colors": ["R"],
     "cmc": 3,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/a/9/a9f63d3b-bee5-48bc-8b04-d8b24b0bda6e.jpg?1762171186",
@@ -1712,12 +1329,8 @@
   {
     "name": "Jet's Brainwashing",
     "type": "Sorcery",
-    "keywords": [
-      "Kicker"
-    ],
-    "colors": [
-      "R"
-    ],
+    "keywords": ["Kicker"],
+    "colors": ["R"],
     "cmc": 1,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/b/1/b17e8bdb-4b91-4a9d-bfe1-8a55f0bd040b.jpg?1761922750",
@@ -1727,10 +1340,7 @@
     "name": "Jet, Freedom Fighter",
     "type": "Legendary Creature — Human Rebel Ally",
     "keywords": [],
-    "colors": [
-      "R",
-      "W"
-    ],
+    "colors": ["R", "W"],
     "cmc": 5,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/9/2/9202c044-15e4-4218-a94d-16287ba19d69.jpg?1761922802",
@@ -1739,12 +1349,8 @@
   {
     "name": "Joo Dee, One of Many",
     "type": "Creature — Human Advisor",
-    "keywords": [
-      "Surveil"
-    ],
-    "colors": [
-      "B"
-    ],
+    "keywords": ["Surveil"],
+    "colors": ["B"],
     "cmc": 2,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/7/a/7ae1439f-a0c4-42c2-a4f3-8851defa981e.jpg?1762354805",
@@ -1754,9 +1360,7 @@
     "name": "June, Bounty Hunter",
     "type": "Legendary Creature — Human Mercenary",
     "keywords": [],
-    "colors": [
-      "B"
-    ],
+    "colors": ["B"],
     "cmc": 2,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/1/4/148bbaab-bc7b-46ab-8e18-ade69d71d847.jpg?1762597413",
@@ -1766,9 +1370,7 @@
     "name": "Katara, Bending Prodigy",
     "type": "Legendary Creature — Human Warrior Ally",
     "keywords": [],
-    "colors": [
-      "U"
-    ],
+    "colors": ["U"],
     "cmc": 3,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/e/8/e8372167-383f-4302-a8ea-b6bf495c870c.jpg?1755205079",
@@ -1777,13 +1379,8 @@
   {
     "name": "Katara, Water Tribe's Hope",
     "type": "Legendary Creature — Human Warrior Ally",
-    "keywords": [
-      "Vigilance"
-    ],
-    "colors": [
-      "U",
-      "W"
-    ],
+    "keywords": ["Vigilance"],
+    "colors": ["U", "W"],
     "cmc": 5,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/9/e/9ec03308-59a2-417a-938f-bdda75080e43.jpg?1755043714",
@@ -1793,11 +1390,7 @@
     "name": "Katara, the Fearless",
     "type": "Legendary Creature — Human Warrior Ally",
     "keywords": [],
-    "colors": [
-      "G",
-      "U",
-      "W"
-    ],
+    "colors": ["G", "U", "W"],
     "cmc": 3,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/b/0/b0a18f8b-7364-4375-b2e1-e2f15978517f.jpg?1755069764",
@@ -1806,12 +1399,8 @@
   {
     "name": "Knowledge Seeker",
     "type": "Creature — Fox Spirit",
-    "keywords": [
-      "Vigilance"
-    ],
-    "colors": [
-      "U"
-    ],
+    "keywords": ["Vigilance"],
+    "colors": ["U"],
     "cmc": 2,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/8/5/8554e862-f78a-42f5-b876-076aac6c9504.jpg?1762353817",
@@ -1821,9 +1410,7 @@
     "name": "Koh, the Face Stealer",
     "type": "Legendary Creature — Shapeshifter Spirit",
     "keywords": [],
-    "colors": [
-      "B"
-    ],
+    "colors": ["B"],
     "cmc": 6,
     "rarity": "mythic",
     "image": "https://cards.scryfall.io/normal/front/2/8/28f6fa32-5058-4c29-9ba8-9d8f2057eb6d.jpg?1762470328",
@@ -1832,9 +1419,7 @@
   {
     "name": "Kyoshi Battle Fan",
     "type": "Artifact — Equipment",
-    "keywords": [
-      "Equip"
-    ],
+    "keywords": ["Equip"],
     "colors": [],
     "cmc": 2,
     "rarity": "common",
@@ -1845,9 +1430,7 @@
     "name": "Kyoshi Island Plaza",
     "type": "Legendary Enchantment — Shrine",
     "keywords": [],
-    "colors": [
-      "G"
-    ],
+    "colors": ["G"],
     "cmc": 4,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/9/c/9c25ea98-9823-4487-bf6b-ee29ce5a4ed8.jpg?1762590565",
@@ -1867,9 +1450,7 @@
     "name": "Kyoshi Warriors",
     "type": "Creature — Human Warrior Ally",
     "keywords": [],
-    "colors": [
-      "W"
-    ],
+    "colors": ["W"],
     "cmc": 4,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/2/1/211045e1-85c7-4088-b830-a2afa0fe520b.jpg?1762343307",
@@ -1878,13 +1459,8 @@
   {
     "name": "Leaves from the Vine",
     "type": "Enchantment — Saga",
-    "keywords": [
-      "Food",
-      "Mill"
-    ],
-    "colors": [
-      "G"
-    ],
+    "keywords": ["Food", "Mill"],
+    "colors": ["G"],
     "cmc": 2,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/b/1/b18995c2-efe3-46ca-8204-e2dc0e42f6e3.jpg?1761665463",
@@ -1894,9 +1470,7 @@
     "name": "Lightning Strike",
     "type": "Instant",
     "keywords": [],
-    "colors": [
-      "R"
-    ],
+    "colors": ["R"],
     "cmc": 2,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/5/7/5787b0e0-9469-4a6d-8b81-c992628e28c0.jpg?1755205241",
@@ -1906,9 +1480,7 @@
     "name": "Lo and Li, Twin Tutors",
     "type": "Legendary Creature — Human Advisor",
     "keywords": [],
-    "colors": [
-      "B"
-    ],
+    "colors": ["B"],
     "cmc": 5,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/c/b/cba9260d-ef07-4429-99f9-6004cc1fea0f.jpg?1762691738",
@@ -1918,10 +1490,7 @@
     "name": "Long Feng, Grand Secretariat",
     "type": "Legendary Creature — Human Advisor",
     "keywords": [],
-    "colors": [
-      "B",
-      "G"
-    ],
+    "colors": ["B", "G"],
     "cmc": 3,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/a/3/a3eb92fe-bc59-4472-9028-f368bd015609.jpg?1755205345",
@@ -1931,9 +1500,7 @@
     "name": "Lost Days",
     "type": "Instant — Lesson",
     "keywords": [],
-    "colors": [
-      "U"
-    ],
+    "colors": ["U"],
     "cmc": 5,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/d/b/db8e88e3-0931-403f-90e7-3c22c0b61dac.jpg?1761823564",
@@ -1942,13 +1509,8 @@
   {
     "name": "Mai, Jaded Edge",
     "type": "Legendary Creature — Human Noble",
-    "keywords": [
-      "Prowess",
-      "Exhaust"
-    ],
-    "colors": [
-      "R"
-    ],
+    "keywords": ["Prowess", "Exhaust"],
+    "colors": ["R"],
     "cmc": 2,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/7/3/732e6bc9-0798-4c00-aea0-5ef4298b45f5.jpg?1761935813",
@@ -1957,12 +1519,8 @@
   {
     "name": "Mai, Scornful Striker",
     "type": "Legendary Creature — Human Noble Ally",
-    "keywords": [
-      "First strike"
-    ],
-    "colors": [
-      "B"
-    ],
+    "keywords": ["First strike"],
+    "colors": ["B"],
     "cmc": 2,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/7/4/74dd4c0e-27b8-4c47-b7a6-a281413cd6b4.jpg?1762258914",
@@ -1971,13 +1529,8 @@
   {
     "name": "Master Pakku",
     "type": "Legendary Creature — Human Advisor Ally",
-    "keywords": [
-      "Prowess",
-      "Mill"
-    ],
-    "colors": [
-      "U"
-    ],
+    "keywords": ["Prowess", "Mill"],
+    "colors": ["U"],
     "cmc": 2,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/9/1/91e30df5-63f7-4281-8d64-8d522d663652.jpg?1755884269",
@@ -1986,12 +1539,8 @@
   {
     "name": "Master Piandao",
     "type": "Legendary Creature — Human Warrior Ally",
-    "keywords": [
-      "First strike"
-    ],
-    "colors": [
-      "W"
-    ],
+    "keywords": ["First strike"],
+    "colors": ["W"],
     "cmc": 5,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/3/e/3e4a042c-f2a6-45e7-9444-acd1ca838b87.jpg?1755205924",
@@ -2011,9 +1560,7 @@
     "name": "Merchant of Many Hats",
     "type": "Creature — Human Peasant Ally",
     "keywords": [],
-    "colors": [
-      "B"
-    ],
+    "colors": ["B"],
     "cmc": 2,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/7/5/752ffa24-93b6-4b33-bf10-7222357ac472.jpg?1755207836",
@@ -2022,13 +1569,8 @@
   {
     "name": "Messenger Hawk",
     "type": "Creature — Bird Scout",
-    "keywords": [
-      "Flying"
-    ],
-    "colors": [
-      "B",
-      "U"
-    ],
+    "keywords": ["Flying"],
+    "colors": ["B", "U"],
     "cmc": 3,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/6/a/6a2946c0-0a40-4cdb-92c8-af2bafecca09.jpg?1762343824",
@@ -2037,9 +1579,7 @@
   {
     "name": "Meteor Sword",
     "type": "Artifact — Equipment",
-    "keywords": [
-      "Equip"
-    ],
+    "keywords": ["Equip"],
     "colors": [],
     "cmc": 7,
     "rarity": "uncommon",
@@ -2059,12 +1599,8 @@
   {
     "name": "Momo, Friendly Flier",
     "type": "Legendary Creature — Lemur Bat Ally",
-    "keywords": [
-      "Flying"
-    ],
-    "colors": [
-      "W"
-    ],
+    "keywords": ["Flying"],
+    "colors": ["W"],
     "cmc": 1,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/c/4/c472ef84-a632-4ad7-853c-60588a7a4b12.jpg?1755016538",
@@ -2073,15 +1609,8 @@
   {
     "name": "Momo, Playful Pet",
     "type": "Legendary Creature — Lemur Bat Ally",
-    "keywords": [
-      "Scry",
-      "Flying",
-      "Vigilance",
-      "Food"
-    ],
-    "colors": [
-      "W"
-    ],
+    "keywords": ["Scry", "Flying", "Vigilance", "Food"],
+    "colors": ["W"],
     "cmc": 1,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/9/3/9350bf4a-fa12-4867-b31f-1f1394d99571.jpg?1762812844",
@@ -2097,9 +1626,7 @@
       "Typecycling",
       "Cycling"
     ],
-    "colors": [
-      "R"
-    ],
+    "colors": ["R"],
     "cmc": 6,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/7/d/7d40b9cb-82ef-44c5-8d3c-c8bb4ce9891c.jpg?1755207917",
@@ -2119,9 +1646,7 @@
     "name": "North Pole Patrol",
     "type": "Creature — Human Soldier Ally",
     "keywords": [],
-    "colors": [
-      "U"
-    ],
+    "colors": ["U"],
     "cmc": 3,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/c/2/c2c0c138-5b61-4949-8431-4a6d458ead6a.jpg?1761671703",
@@ -2131,9 +1656,7 @@
     "name": "Northern Air Temple",
     "type": "Legendary Enchantment — Shrine",
     "keywords": [],
-    "colors": [
-      "B"
-    ],
+    "colors": ["B"],
     "cmc": 1,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/0/6/06b7675e-e665-49cb-a8d9-7092a654d464.jpg?1762552016",
@@ -2143,9 +1666,7 @@
     "name": "Obsessive Pursuit",
     "type": "Enchantment",
     "keywords": [],
-    "colors": [
-      "B"
-    ],
+    "colors": ["B"],
     "cmc": 2,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/e/8/e837e29c-d241-43c8-8f45-05056e082b60.jpg?1762353478",
@@ -2155,9 +1676,7 @@
     "name": "Octopus Form",
     "type": "Instant — Lesson",
     "keywords": [],
-    "colors": [
-      "U"
-    ],
+    "colors": ["U"],
     "cmc": 1,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/c/e/ce96a826-53a0-4029-bf34-46779d133b13.jpg?1761853513",
@@ -2177,9 +1696,7 @@
     "name": "Origin of Metalbending",
     "type": "Instant — Lesson",
     "keywords": [],
-    "colors": [
-      "G"
-    ],
+    "colors": ["G"],
     "cmc": 2,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/2/5/25749f9a-260d-4bdc-bd28-429c12faa4a5.jpg?1761853549",
@@ -2188,12 +1705,8 @@
   {
     "name": "Ostrich-Horse",
     "type": "Creature — Bird Horse",
-    "keywords": [
-      "Mill"
-    ],
-    "colors": [
-      "G"
-    ],
+    "keywords": ["Mill"],
+    "colors": ["G"],
     "cmc": 3,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/5/c/5ca3fd45-9301-44ef-afc0-4d7999d66d36.jpg?1755207942",
@@ -2203,9 +1716,7 @@
     "name": "Otter-Penguin",
     "type": "Creature — Otter Bird",
     "keywords": [],
-    "colors": [
-      "U"
-    ],
+    "colors": ["U"],
     "cmc": 2,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/4/8/480b6279-bb34-4b3f-a639-868b52af92b9.jpg?1755210017",
@@ -2215,9 +1726,7 @@
     "name": "Ozai's Cruelty",
     "type": "Sorcery — Lesson",
     "keywords": [],
-    "colors": [
-      "B"
-    ],
+    "colors": ["B"],
     "cmc": 3,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/2/2/22cad680-d46a-4589-a633-b6ee9a78d61e.jpg?1755209059",
@@ -2226,14 +1735,8 @@
   {
     "name": "Ozai, the Phoenix King",
     "type": "Legendary Creature — Human Noble",
-    "keywords": [
-      "Haste",
-      "Trample"
-    ],
-    "colors": [
-      "B",
-      "R"
-    ],
+    "keywords": ["Haste", "Trample"],
+    "colors": ["B", "R"],
     "cmc": 6,
     "rarity": "mythic",
     "image": "https://cards.scryfall.io/normal/front/a/9/a98b1550-4609-4a2f-9371-4afe1cdc613e.jpg?1762694963",
@@ -2242,12 +1745,8 @@
   {
     "name": "Path to Redemption",
     "type": "Enchantment — Aura",
-    "keywords": [
-      "Enchant"
-    ],
-    "colors": [
-      "W"
-    ],
+    "keywords": ["Enchant"],
+    "colors": ["W"],
     "cmc": 2,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/f/9/f936d64a-0db4-49c1-8a57-6d99e012a555.jpg?1755290963",
@@ -2256,13 +1755,8 @@
   {
     "name": "Phoenix Fleet Airship",
     "type": "Artifact — Vehicle",
-    "keywords": [
-      "Flying",
-      "Crew"
-    ],
-    "colors": [
-      "B"
-    ],
+    "keywords": ["Flying", "Crew"],
+    "colors": ["B"],
     "cmc": 4,
     "rarity": "mythic",
     "image": "https://cards.scryfall.io/normal/front/b/5/b51d3259-c41c-4f64-9666-0a9e676c812f.jpg?1762427675",
@@ -2272,9 +1766,7 @@
     "name": "Pillar Launch",
     "type": "Instant",
     "keywords": [],
-    "colors": [
-      "G"
-    ],
+    "colors": ["G"],
     "cmc": 1,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/f/1/f177e9cc-0c41-417d-9215-5ff23a1a0657.jpg?1755209240",
@@ -2283,12 +1775,8 @@
   {
     "name": "Pirate Peddlers",
     "type": "Creature — Human Pirate",
-    "keywords": [
-      "Deathtouch"
-    ],
-    "colors": [
-      "B"
-    ],
+    "keywords": ["Deathtouch"],
+    "colors": ["B"],
     "cmc": 3,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/5/c/5c998994-6c3b-4f34-9b31-babba2b17266.jpg?1762551473",
@@ -2297,9 +1785,7 @@
   {
     "name": "Planetarium of Wan Shi Tong",
     "type": "Legendary Artifact",
-    "keywords": [
-      "Scry"
-    ],
+    "keywords": ["Scry"],
     "colors": [],
     "cmc": 6,
     "rarity": "mythic",
@@ -2309,14 +1795,8 @@
   {
     "name": "Platypus-Bear",
     "type": "Creature — Platypus Bear",
-    "keywords": [
-      "Mill",
-      "Defender"
-    ],
-    "colors": [
-      "G",
-      "U"
-    ],
+    "keywords": ["Mill", "Defender"],
+    "colors": ["G", "U"],
     "cmc": 2,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/7/e/7ebf742a-3995-4b22-9dc7-b05f57889683.jpg?1762171371",
@@ -2326,10 +1806,7 @@
     "name": "Pretending Poxbearers",
     "type": "Creature — Human Citizen Ally",
     "keywords": [],
-    "colors": [
-      "B",
-      "W"
-    ],
+    "colors": ["B", "W"],
     "cmc": 2,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/d/1/d1af91a5-8681-4a05-910d-96f7a819bfaa.jpg?1755209300",
@@ -2339,9 +1816,7 @@
     "name": "Price of Freedom",
     "type": "Sorcery — Lesson",
     "keywords": [],
-    "colors": [
-      "R"
-    ],
+    "colors": ["R"],
     "cmc": 2,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/9/f/9fbe94e9-a71d-4a31-9210-c599abe08e3f.jpg?1761922930",
@@ -2351,10 +1826,7 @@
     "name": "Professor Zei, Anthropologist",
     "type": "Legendary Creature — Human Advisor Ally",
     "keywords": [],
-    "colors": [
-      "R",
-      "U"
-    ],
+    "colors": ["R", "U"],
     "cmc": 2,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/2/7/27baccc0-7e25-4f39-be0d-31cd98ca0dc5.jpg?1762265703",
@@ -2370,9 +1842,7 @@
       "Cycling",
       "Landfall"
     ],
-    "colors": [
-      "W"
-    ],
+    "colors": ["W"],
     "cmc": 5,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/6/2/62a983b4-ac73-4949-9317-05a75a8ce164.jpg?1755209381",
@@ -2381,12 +1851,8 @@
   {
     "name": "Ran and Shaw",
     "type": "Legendary Creature — Dragon",
-    "keywords": [
-      "Flying"
-    ],
-    "colors": [
-      "R"
-    ],
+    "keywords": ["Flying"],
+    "colors": ["R"],
     "cmc": 5,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/6/4/6436e2d0-989f-47e3-90bc-9cde82a2ddb4.jpg?1762694945",
@@ -2396,9 +1862,7 @@
     "name": "Raucous Audience",
     "type": "Creature — Human Citizen",
     "keywords": [],
-    "colors": [
-      "G"
-    ],
+    "colors": ["G"],
     "cmc": 2,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/c/c/ccd03ec3-0fae-48b2-9f04-9c57d2f94267.jpg?1755209471",
@@ -2407,12 +1871,8 @@
   {
     "name": "Raven Eagle",
     "type": "Creature — Bird Assassin",
-    "keywords": [
-      "Flying"
-    ],
-    "colors": [
-      "B"
-    ],
+    "keywords": ["Flying"],
+    "colors": ["B"],
     "cmc": 3,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/2/2/2262f24b-db6b-4f86-96d0-47a20fc015ab.jpg?1762258923",
@@ -2422,9 +1882,7 @@
     "name": "Razor Rings",
     "type": "Instant",
     "keywords": [],
-    "colors": [
-      "W"
-    ],
+    "colors": ["W"],
     "cmc": 2,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/b/0/b05cfee5-ee59-4df6-a5f6-d9ef0fa7f98a.jpg?1755209522",
@@ -2443,12 +1901,8 @@
   {
     "name": "Rebellious Captives",
     "type": "Creature — Human Peasant Ally",
-    "keywords": [
-      "Exhaust"
-    ],
-    "colors": [
-      "G"
-    ],
+    "keywords": ["Exhaust"],
+    "colors": ["G"],
     "cmc": 2,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/e/6/e64a4a8b-323c-4c8b-92af-1a3295799e65.jpg?1755238017",
@@ -2458,9 +1912,7 @@
     "name": "Redirect Lightning",
     "type": "Instant — Lesson",
     "keywords": [],
-    "colors": [
-      "R"
-    ],
+    "colors": ["R"],
     "cmc": 1,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/2/b/2b5b14a7-1fdd-4efc-b197-cadfa7f7c860.jpg?1755043660",
@@ -2469,12 +1921,8 @@
   {
     "name": "Rockalanche",
     "type": "Sorcery — Lesson",
-    "keywords": [
-      "Flashback"
-    ],
-    "colors": [
-      "G"
-    ],
+    "keywords": ["Flashback"],
+    "colors": ["G"],
     "cmc": 3,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/5/2/52b213d3-6f68-43e6-91e9-435d8fe1f34c.jpg?1762343778",
@@ -2484,9 +1932,7 @@
     "name": "Rocky Rebuke",
     "type": "Instant",
     "keywords": [],
-    "colors": [
-      "G"
-    ],
+    "colors": ["G"],
     "cmc": 2,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/5/2/52fd910f-6d42-41f5-a4be-f375aa254ea2.jpg?1755209619",
@@ -2495,12 +1941,8 @@
   {
     "name": "Rough Rhino Cavalry",
     "type": "Creature — Human Mercenary",
-    "keywords": [
-      "Exhaust"
-    ],
-    "colors": [
-      "R"
-    ],
+    "keywords": ["Exhaust"],
+    "colors": ["R"],
     "cmc": 5,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/a/8/a8bc29cf-f6f8-4bb8-b722-f016b58b6d2d.jpg?1755238072",
@@ -2510,9 +1952,7 @@
     "name": "Rowdy Snowballers",
     "type": "Creature — Human Peasant Ally",
     "keywords": [],
-    "colors": [
-      "U"
-    ],
+    "colors": ["U"],
     "cmc": 3,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/1/7/17d71522-b133-4003-b787-0c742a2fd70e.jpg?1755209796",
@@ -2522,9 +1962,7 @@
     "name": "Ruinous Waterbending",
     "type": "Sorcery — Lesson",
     "keywords": [],
-    "colors": [
-      "B"
-    ],
+    "colors": ["B"],
     "cmc": 3,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/5/3/53161747-c82b-41e8-90ea-7791ea262a85.jpg?1762428693",
@@ -2533,10 +1971,7 @@
   {
     "name": "Rumble Arena",
     "type": "Land",
-    "keywords": [
-      "Vigilance",
-      "Scry"
-    ],
+    "keywords": ["Vigilance", "Scry"],
     "colors": [],
     "cmc": 0,
     "rarity": "common",
@@ -2553,9 +1988,7 @@
       "Typecycling",
       "Cycling"
     ],
-    "colors": [
-      "G"
-    ],
+    "colors": ["G"],
     "cmc": 6,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/b/1/b15f302d-c451-4e79-a5af-75ee3ba4cadf.jpg?1755209852",
@@ -2565,10 +1998,7 @@
     "name": "Sandbender Scavengers",
     "type": "Creature — Human Rogue",
     "keywords": [],
-    "colors": [
-      "B",
-      "W"
-    ],
+    "colors": ["B", "W"],
     "cmc": 2,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/9/b/9bfe0f7c-6dac-41d4-a013-109445158a5e.jpg?1762551257",
@@ -2578,9 +2008,7 @@
     "name": "Sandbenders' Storm",
     "type": "Instant",
     "keywords": [],
-    "colors": [
-      "W"
-    ],
+    "colors": ["W"],
     "cmc": 4,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/b/3/b3bf4a25-4329-4318-870a-2b06aa620dc4.jpg?1762258763",
@@ -2600,9 +2028,7 @@
     "name": "Secret of Bloodbending",
     "type": "Sorcery — Lesson",
     "keywords": [],
-    "colors": [
-      "U"
-    ],
+    "colors": ["U"],
     "cmc": 4,
     "rarity": "mythic",
     "image": "https://cards.scryfall.io/normal/front/9/b/9bb928ae-f636-4aee-9146-a7885e6a8976.jpg?1761662363",
@@ -2612,9 +2038,7 @@
     "name": "Seismic Sense",
     "type": "Sorcery — Lesson",
     "keywords": [],
-    "colors": [
-      "G"
-    ],
+    "colors": ["G"],
     "cmc": 1,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/a/7/a7b93c2a-c478-4734-8aca-03f3e9c11b20.jpg?1761665549",
@@ -2624,9 +2048,7 @@
     "name": "Serpent of the Pass",
     "type": "Creature — Serpent",
     "keywords": [],
-    "colors": [
-      "U"
-    ],
+    "colors": ["U"],
     "cmc": 7,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/8/7/87595843-15bc-48bb-8a81-3e6ad924ed44.jpg?1755210008",
@@ -2646,9 +2068,7 @@
     "name": "Shared Roots",
     "type": "Sorcery — Lesson",
     "keywords": [],
-    "colors": [
-      "G"
-    ],
+    "colors": ["G"],
     "cmc": 2,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/e/7/e7847ba5-e85e-417f-96c0-aef2e6f83994.jpg?1762171318",
@@ -2657,12 +2077,8 @@
   {
     "name": "Sokka's Haiku",
     "type": "Instant — Lesson",
-    "keywords": [
-      "Mill"
-    ],
-    "colors": [
-      "U"
-    ],
+    "keywords": ["Mill"],
+    "colors": ["U"],
     "cmc": 5,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/0/0/004be4bc-ac3c-4026-8d36-f4687ab18c70.jpg?1755016800",
@@ -2672,10 +2088,7 @@
     "name": "Sokka, Bold Boomeranger",
     "type": "Legendary Creature — Human Warrior Ally",
     "keywords": [],
-    "colors": [
-      "R",
-      "U"
-    ],
+    "colors": ["R", "U"],
     "cmc": 2,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/4/a/4a1f1472-55b4-450d-8e4d-7297130a0cf3.jpg?1755018680",
@@ -2684,13 +2097,8 @@
   {
     "name": "Sokka, Lateral Strategist",
     "type": "Legendary Creature — Human Warrior Ally",
-    "keywords": [
-      "Vigilance"
-    ],
-    "colors": [
-      "U",
-      "W"
-    ],
+    "keywords": ["Vigilance"],
+    "colors": ["U", "W"],
     "cmc": 3,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/1/3/1326c5db-4615-495f-8e30-376243d91352.jpg?1755210144",
@@ -2699,15 +2107,8 @@
   {
     "name": "Sokka, Tenacious Tactician",
     "type": "Legendary Creature — Human Warrior Ally",
-    "keywords": [
-      "Prowess",
-      "Menace"
-    ],
-    "colors": [
-      "R",
-      "U",
-      "W"
-    ],
+    "keywords": ["Prowess", "Menace"],
+    "colors": ["R", "U", "W"],
     "cmc": 4,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/f/0/f0fa5897-1da7-488f-bb19-1632e969c050.jpg?1761666368",
@@ -2717,9 +2118,7 @@
     "name": "Sold Out",
     "type": "Instant",
     "keywords": [],
-    "colors": [
-      "B"
-    ],
+    "colors": ["B"],
     "cmc": 4,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/1/a/1affba6d-2cca-4cdf-8690-1e23ffbe8462.jpg?1762171077",
@@ -2728,12 +2127,8 @@
   {
     "name": "Solstice Revelations",
     "type": "Instant — Lesson",
-    "keywords": [
-      "Flashback"
-    ],
-    "colors": [
-      "R"
-    ],
+    "keywords": ["Flashback"],
+    "colors": ["R"],
     "cmc": 3,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/f/2/f22ac19f-66fb-4d54-9f09-495a20a29577.jpg?1761664425",
@@ -2743,9 +2138,7 @@
     "name": "South Pole Voyager",
     "type": "Creature — Human Scout Ally",
     "keywords": [],
-    "colors": [
-      "W"
-    ],
+    "colors": ["W"],
     "cmc": 2,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/4/b/4b5ad895-be8d-476b-91ca-22fad7a3cc58.jpg?1762428544",
@@ -2755,9 +2148,7 @@
     "name": "Southern Air Temple",
     "type": "Legendary Enchantment — Shrine",
     "keywords": [],
-    "colors": [
-      "W"
-    ],
+    "colors": ["W"],
     "cmc": 4,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/5/c/5c172f9b-2184-4736-9f90-74ce08596292.jpg?1755043650",
@@ -2766,12 +2157,8 @@
   {
     "name": "Sozin's Comet",
     "type": "Sorcery",
-    "keywords": [
-      "Foretell"
-    ],
-    "colors": [
-      "R"
-    ],
+    "keywords": ["Foretell"],
+    "colors": ["R"],
     "cmc": 5,
     "rarity": "mythic",
     "image": "https://cards.scryfall.io/normal/front/6/4/649e50e5-299b-4191-87a8-36e9378795be.jpg?1761663750",
@@ -2780,13 +2167,8 @@
   {
     "name": "Sparring Dummy",
     "type": "Artifact Creature — Scarecrow",
-    "keywords": [
-      "Mill",
-      "Defender"
-    ],
-    "colors": [
-      "G"
-    ],
+    "keywords": ["Mill", "Defender"],
+    "colors": ["G"],
     "cmc": 2,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/5/2/520f5a03-ff5a-43ed-8f15-cf24596d60cd.jpg?1761674490",
@@ -2796,9 +2178,7 @@
     "name": "Spirit Water Revival",
     "type": "Sorcery",
     "keywords": [],
-    "colors": [
-      "U"
-    ],
+    "colors": ["U"],
     "cmc": 3,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/0/c/0c019e76-c88e-4d1b-a546-0f4e462ef44a.jpg?1761930165",
@@ -2808,9 +2188,7 @@
     "name": "Suki, Courageous Rescuer",
     "type": "Legendary Creature — Human Warrior Ally",
     "keywords": [],
-    "colors": [
-      "W"
-    ],
+    "colors": ["W"],
     "cmc": 3,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/3/3/33b97433-e16c-422e-a0ca-f6b1e98d8681.jpg?1761927055",
@@ -2820,10 +2198,7 @@
     "name": "Suki, Kyoshi Warrior",
     "type": "Legendary Creature — Human Warrior Ally",
     "keywords": [],
-    "colors": [
-      "G",
-      "W"
-    ],
+    "colors": ["G", "W"],
     "cmc": 4,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/3/e/3e311480-04f8-4b8f-938e-1cc6d06b9902.jpg?1755210199",
@@ -2833,10 +2208,7 @@
     "name": "Sun Warriors",
     "type": "Creature — Human Warrior Ally",
     "keywords": [],
-    "colors": [
-      "R",
-      "W"
-    ],
+    "colors": ["R", "W"],
     "cmc": 4,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/e/4/e477d750-42d2-48c8-bc1f-8148d15d5f53.jpg?1761666450",
@@ -2855,12 +2227,8 @@
   {
     "name": "Swampsnare Trap",
     "type": "Enchantment — Aura",
-    "keywords": [
-      "Enchant"
-    ],
-    "colors": [
-      "B"
-    ],
+    "keywords": ["Enchant"],
+    "colors": ["B"],
     "cmc": 3,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/6/3/6348b6bf-08a7-45f0-8b2d-2827ab89f21c.jpg?1762343726",
@@ -2870,9 +2238,7 @@
     "name": "Team Avatar",
     "type": "Enchantment",
     "keywords": [],
-    "colors": [
-      "W"
-    ],
+    "colors": ["W"],
     "cmc": 3,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/a/9/a9a5f6f7-f04d-477f-b67f-fd01a5dcc0f5.jpg?1762470514",
@@ -2881,12 +2247,8 @@
   {
     "name": "Teo, Spirited Glider",
     "type": "Legendary Creature — Human Pilot Ally",
-    "keywords": [
-      "Flying"
-    ],
-    "colors": [
-      "U"
-    ],
+    "keywords": ["Flying"],
+    "colors": ["U"],
     "cmc": 4,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/6/6/66906ed4-baac-4be0-9359-34f453d1a04a.jpg?1761802746",
@@ -2896,9 +2258,7 @@
     "name": "The Boulder, Ready to Rumble",
     "type": "Legendary Creature — Human Warrior Performer",
     "keywords": [],
-    "colors": [
-      "G"
-    ],
+    "colors": ["G"],
     "cmc": 4,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/e/c/ec27a466-5457-44c6-a842-1de7d3788d66.jpg?1762259357",
@@ -2908,9 +2268,7 @@
     "name": "The Cave of Two Lovers",
     "type": "Enchantment — Saga",
     "keywords": [],
-    "colors": [
-      "R"
-    ],
+    "colors": ["R"],
     "cmc": 4,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/5/0/50bf5c8b-f218-46b7-843c-8d8083f02fd2.jpg?1762694913",
@@ -2920,9 +2278,7 @@
     "name": "The Earth King",
     "type": "Legendary Creature — Human Noble Ally",
     "keywords": [],
-    "colors": [
-      "G"
-    ],
+    "colors": ["G"],
     "cmc": 4,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/a/8/a8d5dca6-381a-4361-b265-27de8d04335c.jpg?1762203294",
@@ -2931,13 +2287,8 @@
   {
     "name": "The Fire Nation Drill",
     "type": "Legendary Artifact — Vehicle",
-    "keywords": [
-      "Crew",
-      "Trample"
-    ],
-    "colors": [
-      "B"
-    ],
+    "keywords": ["Crew", "Trample"],
+    "colors": ["B"],
     "cmc": 4,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/5/4/54d762f6-e131-480f-b294-10f5a63d9c98.jpg?1761663279",
@@ -2946,12 +2297,8 @@
   {
     "name": "The Last Agni Kai",
     "type": "Instant",
-    "keywords": [
-      "Fight"
-    ],
-    "colors": [
-      "R"
-    ],
+    "keywords": ["Fight"],
+    "colors": ["R"],
     "cmc": 2,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/6/1/61eaebc6-7575-48ed-b212-ff8b0c7ae694.jpg?1761664050",
@@ -2960,11 +2307,7 @@
   {
     "name": "The Legend of Kuruk // Avatar Kuruk",
     "type": "Enchantment — Saga // Legendary Creature — Avatar",
-    "keywords": [
-      "Transform",
-      "Exhaust",
-      "Scry"
-    ],
+    "keywords": ["Transform", "Exhaust", "Scry"],
     "colors": [],
     "cmc": 4,
     "rarity": "mythic",
@@ -2974,9 +2317,7 @@
   {
     "name": "The Legend of Kyoshi // Avatar Kyoshi",
     "type": "Enchantment — Saga // Legendary Creature — Avatar",
-    "keywords": [
-      "Transform"
-    ],
+    "keywords": ["Transform"],
     "colors": [],
     "cmc": 6,
     "rarity": "mythic",
@@ -2986,9 +2327,7 @@
   {
     "name": "The Legend of Roku // Avatar Roku",
     "type": "Enchantment — Saga // Legendary Creature — Avatar",
-    "keywords": [
-      "Transform"
-    ],
+    "keywords": ["Transform"],
     "colors": [],
     "cmc": 4,
     "rarity": "mythic",
@@ -2998,10 +2337,7 @@
   {
     "name": "The Legend of Yangchen // Avatar Yangchen",
     "type": "Enchantment — Saga // Legendary Creature — Avatar",
-    "keywords": [
-      "Flying",
-      "Transform"
-    ],
+    "keywords": ["Flying", "Transform"],
     "colors": [],
     "cmc": 5,
     "rarity": "mythic",
@@ -3011,14 +2347,8 @@
   {
     "name": "The Lion-Turtle",
     "type": "Legendary Creature — Elder Cat Turtle",
-    "keywords": [
-      "Reach",
-      "Vigilance"
-    ],
-    "colors": [
-      "G",
-      "U"
-    ],
+    "keywords": ["Reach", "Vigilance"],
+    "colors": ["G", "U"],
     "cmc": 3,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/8/4/8491585c-81d0-48be-8ed0-832e42fad9c6.jpg?1761666317",
@@ -3028,9 +2358,7 @@
     "name": "The Mechanist, Aerial Artisan",
     "type": "Legendary Creature — Human Artificer Ally",
     "keywords": [],
-    "colors": [
-      "U"
-    ],
+    "colors": ["U"],
     "cmc": 3,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/b/9/b910851e-9332-4c83-a790-d379667cabfc.jpg?1761760313",
@@ -3039,10 +2367,7 @@
   {
     "name": "The Rise of Sozin // Fire Lord Sozin",
     "type": "Enchantment — Saga // Legendary Creature — Human Noble",
-    "keywords": [
-      "Transform",
-      "Menace"
-    ],
+    "keywords": ["Transform", "Menace"],
     "colors": [],
     "cmc": 6,
     "rarity": "mythic",
@@ -3053,9 +2378,7 @@
     "name": "The Spirit Oasis",
     "type": "Legendary Enchantment — Shrine",
     "keywords": [],
-    "colors": [
-      "U"
-    ],
+    "colors": ["U"],
     "cmc": 3,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/3/a/3a1b1329-531c-47ed-9802-c505501f8fd9.jpg?1761930067",
@@ -3064,13 +2387,8 @@
   {
     "name": "The Unagi of Kyoshi Island",
     "type": "Legendary Creature — Serpent",
-    "keywords": [
-      "Ward",
-      "Flash"
-    ],
-    "colors": [
-      "U"
-    ],
+    "keywords": ["Ward", "Flash"],
+    "colors": ["U"],
     "cmc": 5,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/0/e/0ecd8b38-9ee5-41a5-9b93-21c33fc1a6ff.jpg?1762184326",
@@ -3079,9 +2397,7 @@
   {
     "name": "The Walls of Ba Sing Se",
     "type": "Legendary Artifact Creature — Wall",
-    "keywords": [
-      "Defender"
-    ],
+    "keywords": ["Defender"],
     "colors": [],
     "cmc": 8,
     "rarity": "mythic",
@@ -3092,9 +2408,7 @@
     "name": "Tiger-Dillo",
     "type": "Creature — Cat Armadillo",
     "keywords": [],
-    "colors": [
-      "R"
-    ],
+    "colors": ["R"],
     "cmc": 2,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/0/6/067bd117-04e6-410e-89c4-6d431d627751.jpg?1762171214",
@@ -3103,12 +2417,8 @@
   {
     "name": "Tiger-Seal",
     "type": "Creature — Cat Seal",
-    "keywords": [
-      "Vigilance"
-    ],
-    "colors": [
-      "U"
-    ],
+    "keywords": ["Vigilance"],
+    "colors": ["U"],
     "cmc": 1,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/7/a/7aef2891-1269-4a1a-acea-0aa37ef544c4.jpg?1761662445",
@@ -3118,10 +2428,7 @@
     "name": "Tolls of War",
     "type": "Enchantment",
     "keywords": [],
-    "colors": [
-      "B",
-      "W"
-    ],
+    "colors": ["B", "W"],
     "cmc": 2,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/d/8/d822b9ad-a787-4355-88c2-07ae2bd3a78e.jpg?1762171523",
@@ -3131,10 +2438,7 @@
     "name": "Toph, Hardheaded Teacher",
     "type": "Legendary Creature — Human Warrior Ally",
     "keywords": [],
-    "colors": [
-      "G",
-      "R"
-    ],
+    "colors": ["G", "R"],
     "cmc": 4,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/e/3/e3ba3395-39db-4330-9801-53def924f253.jpg?1762428840",
@@ -3144,9 +2448,7 @@
     "name": "Toph, the Blind Bandit",
     "type": "Legendary Creature — Human Warrior Ally",
     "keywords": [],
-    "colors": [
-      "G"
-    ],
+    "colors": ["G"],
     "cmc": 3,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/f/f/ff68fa7b-8065-407b-a8b4-bfbb14f1c99c.jpg?1755210285",
@@ -3156,11 +2458,7 @@
     "name": "Toph, the First Metalbender",
     "type": "Legendary Creature — Human Warrior Ally",
     "keywords": [],
-    "colors": [
-      "G",
-      "R",
-      "W"
-    ],
+    "colors": ["G", "R", "W"],
     "cmc": 4,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/7/0/70b6670f-a9fa-4d75-b0a7-c01b5071a514.jpg?1755069811",
@@ -3169,12 +2467,8 @@
   {
     "name": "Treetop Freedom Fighters",
     "type": "Creature — Human Rebel Ally",
-    "keywords": [
-      "Haste"
-    ],
-    "colors": [
-      "R"
-    ],
+    "keywords": ["Haste"],
+    "colors": ["R"],
     "cmc": 3,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/a/9/a9394200-7ffc-440f-8b5f-c08b7930133c.jpg?1761922891",
@@ -3184,9 +2478,7 @@
     "name": "True Ancestry",
     "type": "Sorcery — Lesson",
     "keywords": [],
-    "colors": [
-      "G"
-    ],
+    "colors": ["G"],
     "cmc": 2,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/8/c/8c55b333-dc8b-4332-895b-eec5eb45543f.jpg?1761829699",
@@ -3195,9 +2487,7 @@
   {
     "name": "Trusty Boomerang",
     "type": "Artifact — Equipment",
-    "keywords": [
-      "Equip"
-    ],
+    "keywords": ["Equip"],
     "colors": [],
     "cmc": 1,
     "rarity": "uncommon",
@@ -3207,12 +2497,8 @@
   {
     "name": "Tundra Tank",
     "type": "Artifact — Vehicle",
-    "keywords": [
-      "Crew"
-    ],
-    "colors": [
-      "B"
-    ],
+    "keywords": ["Crew"],
+    "colors": ["B"],
     "cmc": 3,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/1/3/13c66fce-8f8e-4a98-8413-9f05aebf6e13.jpg?1762590788",
@@ -3222,9 +2508,7 @@
     "name": "Turtle-Duck",
     "type": "Creature — Turtle Bird",
     "keywords": [],
-    "colors": [
-      "G"
-    ],
+    "colors": ["G"],
     "cmc": 1,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/a/e/aefcd734-3916-4c77-9d98-3ea2c2795658.jpg?1755210521",
@@ -3233,13 +2517,8 @@
   {
     "name": "Twin Blades",
     "type": "Artifact — Equipment",
-    "keywords": [
-      "Equip",
-      "Flash"
-    ],
-    "colors": [
-      "R"
-    ],
+    "keywords": ["Equip", "Flash"],
+    "colors": ["R"],
     "cmc": 3,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/d/c/dc399ae0-36b5-4c92-9fe2-138caf8d7a86.jpg?1762185066",
@@ -3248,12 +2527,8 @@
   {
     "name": "Ty Lee, Artful Acrobat",
     "type": "Legendary Creature — Human Performer",
-    "keywords": [
-      "Prowess"
-    ],
-    "colors": [
-      "R"
-    ],
+    "keywords": ["Prowess"],
+    "colors": ["R"],
     "cmc": 3,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/d/c/dcd9df24-272b-4aa1-b05f-6ee6b3d3dfe7.jpg?1761737780",
@@ -3262,13 +2537,8 @@
   {
     "name": "Ty Lee, Chi Blocker",
     "type": "Legendary Creature — Human Performer Ally",
-    "keywords": [
-      "Prowess",
-      "Flash"
-    ],
-    "colors": [
-      "U"
-    ],
+    "keywords": ["Prowess", "Flash"],
+    "colors": ["U"],
     "cmc": 3,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/3/0/308cc687-9cb2-4e3a-98db-c5ba2a7da115.jpg?1761760434",
@@ -3278,10 +2548,7 @@
     "name": "Uncle Iroh",
     "type": "Legendary Creature — Human Noble Ally",
     "keywords": [],
-    "colors": [
-      "G",
-      "R"
-    ],
+    "colors": ["G", "R"],
     "cmc": 3,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/5/c/5c88672c-0eba-4e93-a0ec-30bbb1bb7661.jpg?1762590641",
@@ -3291,9 +2558,7 @@
     "name": "United Front",
     "type": "Sorcery",
     "keywords": [],
-    "colors": [
-      "W"
-    ],
+    "colors": ["W"],
     "cmc": 2,
     "rarity": "mythic",
     "image": "https://cards.scryfall.io/normal/front/d/3/d347caf8-0c12-401f-9e33-9978cb347f89.jpg?1761927120",
@@ -3302,12 +2567,8 @@
   {
     "name": "Unlucky Cabbage Merchant",
     "type": "Creature — Human Citizen",
-    "keywords": [
-      "Food"
-    ],
-    "colors": [
-      "G"
-    ],
+    "keywords": ["Food"],
+    "colors": ["G"],
     "cmc": 2,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/0/a/0a838009-b115-4497-b35d-682e41ead7db.jpg?1762786467",
@@ -3317,9 +2578,7 @@
     "name": "Vengeful Villagers",
     "type": "Creature — Human Citizen",
     "keywords": [],
-    "colors": [
-      "W"
-    ],
+    "colors": ["W"],
     "cmc": 4,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/8/c/8cabb6ed-5c80-4dab-b96c-9d4d9fe72db7.jpg?1762428570",
@@ -3328,13 +2587,8 @@
   {
     "name": "Vindictive Warden",
     "type": "Creature — Human Soldier",
-    "keywords": [
-      "Menace"
-    ],
-    "colors": [
-      "B",
-      "R"
-    ],
+    "keywords": ["Menace"],
+    "colors": ["B", "R"],
     "cmc": 3,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/0/f/0f34de05-39a9-425f-a3b4-3a9d46c917ac.jpg?1755210607",
@@ -3343,13 +2597,8 @@
   {
     "name": "Walltop Sentries",
     "type": "Creature — Human Soldier Ally",
-    "keywords": [
-      "Reach",
-      "Deathtouch"
-    ],
-    "colors": [
-      "G"
-    ],
+    "keywords": ["Reach", "Deathtouch"],
+    "colors": ["G"],
     "cmc": 3,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/e/5/e55f1c63-58f6-4e2b-aaeb-f2d5faca47a2.jpg?1762343792",
@@ -3358,14 +2607,8 @@
   {
     "name": "Wan Shi Tong, Librarian",
     "type": "Legendary Creature — Bird Spirit",
-    "keywords": [
-      "Flying",
-      "Vigilance",
-      "Flash"
-    ],
-    "colors": [
-      "U"
-    ],
+    "keywords": ["Flying", "Vigilance", "Flash"],
+    "colors": ["U"],
     "cmc": 2,
     "rarity": "mythic",
     "image": "https://cards.scryfall.io/normal/front/e/2/e20da6b5-1057-4a28-9e85-07de714e262f.jpg?1761662478",
@@ -3375,10 +2618,7 @@
     "name": "Wandering Musicians",
     "type": "Creature — Human Bard Ally",
     "keywords": [],
-    "colors": [
-      "R",
-      "W"
-    ],
+    "colors": ["R", "W"],
     "cmc": 4,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/3/d/3da81dbd-dc80-47ff-a33b-270d23a24e0a.jpg?1762551509",
@@ -3387,13 +2627,8 @@
   {
     "name": "War Balloon",
     "type": "Artifact — Vehicle",
-    "keywords": [
-      "Flying",
-      "Crew"
-    ],
-    "colors": [
-      "R"
-    ],
+    "keywords": ["Flying", "Crew"],
+    "colors": ["R"],
     "cmc": 3,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/6/8/6829b20d-c2fa-41a6-89ca-f21c522d8866.jpg?1761674426",
@@ -3402,12 +2637,8 @@
   {
     "name": "Wartime Protestors",
     "type": "Creature — Human Rebel Ally",
-    "keywords": [
-      "Haste"
-    ],
-    "colors": [
-      "R"
-    ],
+    "keywords": ["Haste"],
+    "colors": ["R"],
     "cmc": 4,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/b/a/bac81940-d717-49ff-83b2-16a22bb2c988.jpg?1762551570",
@@ -3417,9 +2648,7 @@
     "name": "Water Tribe Captain",
     "type": "Creature — Human Soldier Ally",
     "keywords": [],
-    "colors": [
-      "W"
-    ],
+    "colors": ["W"],
     "cmc": 3,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/0/a/0a0cdf97-1927-47c6-8ef1-29969e3567ee.jpg?1762428591",
@@ -3429,9 +2658,7 @@
     "name": "Water Tribe Rallier",
     "type": "Creature — Human Soldier Ally",
     "keywords": [],
-    "colors": [
-      "W"
-    ],
+    "colors": ["W"],
     "cmc": 2,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/4/e/4e744b6c-1c2f-451a-818a-5ee7785b5213.jpg?1761661709",
@@ -3441,9 +2668,7 @@
     "name": "Waterbender Ascension",
     "type": "Enchantment",
     "keywords": [],
-    "colors": [
-      "U"
-    ],
+    "colors": ["U"],
     "cmc": 2,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/3/f/3f57e0f9-e232-489c-b991-d0d23f75d8dd.jpg?1762279920",
@@ -3453,9 +2678,7 @@
     "name": "Waterbending Lesson",
     "type": "Sorcery — Lesson",
     "keywords": [],
-    "colors": [
-      "U"
-    ],
+    "colors": ["U"],
     "cmc": 4,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/4/f/4f81e3b5-a0a9-4764-8c2d-b499ce1740b4.jpg?1755238140",
@@ -3465,9 +2688,7 @@
     "name": "Waterbending Scroll",
     "type": "Artifact",
     "keywords": [],
-    "colors": [
-      "U"
-    ],
+    "colors": ["U"],
     "cmc": 2,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/5/0/50d0be73-a2c8-44a0-9178-9949f342f6f9.jpg?1762551656",
@@ -3476,12 +2697,8 @@
   {
     "name": "Watery Grasp",
     "type": "Enchantment — Aura",
-    "keywords": [
-      "Enchant"
-    ],
-    "colors": [
-      "U"
-    ],
+    "keywords": ["Enchant"],
+    "colors": ["U"],
     "cmc": 1,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/2/6/26bcff57-428e-4f30-a153-a778fbfc437d.jpg?1755210940",
@@ -3500,13 +2717,8 @@
   {
     "name": "White Lotus Reinforcements",
     "type": "Creature — Human Soldier Ally",
-    "keywords": [
-      "Vigilance"
-    ],
-    "colors": [
-      "G",
-      "W"
-    ],
+    "keywords": ["Vigilance"],
+    "colors": ["G", "W"],
     "cmc": 3,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/4/c/4c7e3e2f-d7ac-4d40-ab84-cb7efe06a316.jpg?1761666484",
@@ -3525,12 +2737,8 @@
   {
     "name": "Wolfbat",
     "type": "Creature — Wolf Bat",
-    "keywords": [
-      "Flying"
-    ],
-    "colors": [
-      "B"
-    ],
+    "keywords": ["Flying"],
+    "colors": ["B"],
     "cmc": 3,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/2/a/2ae83b4e-e5a4-4c98-8d16-eef3c71b8ff2.jpg?1762258985",
@@ -3540,9 +2748,7 @@
     "name": "Yip Yip!",
     "type": "Instant — Lesson",
     "keywords": [],
-    "colors": [
-      "W"
-    ],
+    "colors": ["W"],
     "cmc": 1,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/4/3/43f4b10e-165b-4100-82f3-728e1b0c78ed.jpg?1761661655",
@@ -3551,13 +2757,8 @@
   {
     "name": "Yue, the Moon Spirit",
     "type": "Legendary Creature — Spirit Ally",
-    "keywords": [
-      "Flying",
-      "Vigilance"
-    ],
-    "colors": [
-      "U"
-    ],
+    "keywords": ["Flying", "Vigilance"],
+    "colors": ["U"],
     "cmc": 4,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/e/c/ecdac50f-c639-43fc-a03e-d488fac96ae2.jpg?1755043655",
@@ -3566,12 +2767,8 @@
   {
     "name": "Yuyan Archers",
     "type": "Creature — Human Archer",
-    "keywords": [
-      "Reach"
-    ],
-    "colors": [
-      "R"
-    ],
+    "keywords": ["Reach"],
+    "colors": ["R"],
     "cmc": 2,
     "rarity": "common",
     "image": "https://cards.scryfall.io/normal/front/9/9/99244462-a996-4a5b-91fb-947045647d6d.jpg?1755210784",
@@ -3581,10 +2778,7 @@
     "name": "Zhao, Ruthless Admiral",
     "type": "Legendary Creature — Human Soldier",
     "keywords": [],
-    "colors": [
-      "B",
-      "R"
-    ],
+    "colors": ["B", "R"],
     "cmc": 4,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/3/f/3fd48a57-b0bb-4177-a0f3-bd317a179cbe.jpg?1761925592",
@@ -3593,12 +2787,8 @@
   {
     "name": "Zhao, the Moon Slayer",
     "type": "Legendary Creature — Human Soldier",
-    "keywords": [
-      "Menace"
-    ],
-    "colors": [
-      "R"
-    ],
+    "keywords": ["Menace"],
+    "colors": ["R"],
     "cmc": 2,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/f/1/f1015bf5-de98-41f3-b6b1-ed95f7465944.jpg?1762643822",
@@ -3607,12 +2797,8 @@
   {
     "name": "Zuko's Conviction",
     "type": "Instant",
-    "keywords": [
-      "Kicker"
-    ],
-    "colors": [
-      "B"
-    ],
+    "keywords": ["Kicker"],
+    "colors": ["B"],
     "cmc": 1,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/a/d/ad8933d6-cdc7-4d60-a78e-b43ffecfb136.jpg?1762551003",
@@ -3632,10 +2818,7 @@
     "name": "Zuko, Conflicted",
     "type": "Legendary Creature — Human Rogue",
     "keywords": [],
-    "colors": [
-      "B",
-      "R"
-    ],
+    "colors": ["B", "R"],
     "cmc": 2,
     "rarity": "rare",
     "image": "https://cards.scryfall.io/normal/front/9/d/9d555cab-ec86-4f27-bca2-7d01f79c3f46.jpg?1761837520",
@@ -3645,9 +2828,7 @@
     "name": "Zuko, Exiled Prince",
     "type": "Legendary Creature — Human Noble",
     "keywords": [],
-    "colors": [
-      "R"
-    ],
+    "colors": ["R"],
     "cmc": 4,
     "rarity": "uncommon",
     "image": "https://cards.scryfall.io/normal/front/6/a/6a73b372-9c0e-4a85-89d2-440163330687.jpg?1755210855",

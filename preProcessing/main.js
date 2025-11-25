@@ -1,6 +1,11 @@
 const fetch = require("node-fetch");
 const reverseCards = require("./cardsInfo.json");
-const { EXPANSION_CODE, SELECTED_FORMAT, FORMATS, USE_WEIGHTED_AVERAGE_ACROSS_FORMATS } = require("../src/shared");
+const {
+  EXPANSION_CODE,
+  SELECTED_FORMAT,
+  FORMATS,
+  USE_WEIGHTED_AVERAGE_ACROSS_FORMATS,
+} = require("../src/shared");
 
 // Calculate weighted average across formats for a single card
 const calculateWeightedOverall = (cardFormatData) => {
@@ -127,10 +132,12 @@ export const START_DATE = ${JSON.stringify(formattedStartDate)}`,
       .then((res) => (res.ok ? res.json() : []))
       .catch(() => []);
 
-    allFormatsData = [{
-      format: SELECTED_FORMAT.slug,
-      data: formatData,
-    }];
+    allFormatsData = [
+      {
+        format: SELECTED_FORMAT.slug,
+        data: formatData,
+      },
+    ];
   }
 
   // Color pairs to fetch data for
@@ -159,20 +166,26 @@ export const START_DATE = ${JSON.stringify(formattedStartDate)}`,
       );
 
       const colorPairFormatArrays = await Promise.all(colorPairPromises);
-      colorPairData[colorPair] = Object.values(FORMATS).map((format, index) => ({
-        format: format.slug,
-        data: colorPairFormatArrays[index],
-      }));
+      colorPairData[colorPair] = Object.values(FORMATS).map(
+        (format, index) => ({
+          format: format.slug,
+          data: colorPairFormatArrays[index],
+        })
+      );
     } else {
       // Fetch only from selected format
-      const colorPairData_single = await fetch(`${buildFormatURL(SELECTED_FORMAT.slug)}&colors=${colorPair}`)
+      const colorPairData_single = await fetch(
+        `${buildFormatURL(SELECTED_FORMAT.slug)}&colors=${colorPair}`
+      )
         .then((res) => (res.ok ? res.json() : []))
         .catch(() => []);
 
-      colorPairData[colorPair] = [{
-        format: SELECTED_FORMAT.slug,
-        data: colorPairData_single,
-      }];
+      colorPairData[colorPair] = [
+        {
+          format: SELECTED_FORMAT.slug,
+          data: colorPairData_single,
+        },
+      ];
     }
   }
 
