@@ -1,4 +1,5 @@
 const fetch = require("node-fetch");
+const path = require("path");
 const reverseCards = require("./cardsInfo.json");
 const {
   EXPANSION_CODE,
@@ -80,8 +81,9 @@ const main = async () => {
 
   // Read existing START_DATE to preserve it
   let existingStartDate = formattedStartDate; // fallback to calculated value
+  const lastRunPath = path.join(__dirname, "../src/lastRun.js");
   try {
-    const existingContent = fs.readFileSync("../src/lastRun.js", "utf8");
+    const existingContent = fs.readFileSync(lastRunPath, "utf8");
     const startDateMatch = existingContent.match(/START_DATE = "([^"]+)"/);
     if (startDateMatch) {
       existingStartDate = startDateMatch[1];
@@ -91,7 +93,7 @@ const main = async () => {
   }
 
   fs.writeFile(
-    "../src/lastRun.js",
+    lastRunPath,
     `export const LAST_RUN = ${JSON.stringify(formatted)};
 export const START_DATE = ${JSON.stringify(existingStartDate)};
 `,
@@ -112,8 +114,8 @@ export const START_DATE = ${JSON.stringify(existingStartDate)};
 
   const arr = colorDict;
 
-  require("fs").writeFile(
-    "../src/colorData.json",
+  fs.writeFile(
+    path.join(__dirname, "../src/colorData.json"),
     JSON.stringify(arr),
     function (err) {
       if (err) {
@@ -316,8 +318,8 @@ export const START_DATE = ${JSON.stringify(existingStartDate)};
     });
   }
 
-  require("fs").writeFile(
-    "../src/ratingsPairs.json",
+  fs.writeFile(
+    path.join(__dirname, "../src/ratingsPairs.json"),
     JSON.stringify(arrayToWrite),
     function (err) {
       if (err) {
