@@ -76,10 +76,25 @@ const formattedStartDate = `${startSplits[0]} ${parseInt(startSplits[1])}, ${
 }`;
 
 const main = async () => {
-  require("fs").writeFile(
+  const fs = require("fs");
+
+  // Read existing START_DATE to preserve it
+  let existingStartDate = formattedStartDate; // fallback to calculated value
+  try {
+    const existingContent = fs.readFileSync("../src/lastRun.js", "utf8");
+    const startDateMatch = existingContent.match(/START_DATE = "([^"]+)"/);
+    if (startDateMatch) {
+      existingStartDate = startDateMatch[1];
+    }
+  } catch (err) {
+    // File doesn't exist yet, use calculated value
+  }
+
+  fs.writeFile(
     "../src/lastRun.js",
-    `export const LAST_RUN = ${JSON.stringify(formatted)}
-export const START_DATE = ${JSON.stringify(formattedStartDate)}`,
+    `export const LAST_RUN = ${JSON.stringify(formatted)};
+export const START_DATE = ${JSON.stringify(existingStartDate)};
+`,
     function (err) {
       if (err) {
         console.error("Broke!");
