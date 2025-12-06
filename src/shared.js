@@ -23,7 +23,7 @@ export const FORMATS = {
   },
 };
 
-export const SELECTED_FORMAT = FORMATS.PREMIER_DRAFT;
+export const SELECTED_FORMAT = FORMATS.SEALED;
 
 // When true, preprocessing will fetch data from all formats and calculate weighted averages
 // When false, preprocessing will only fetch data from SELECTED_FORMAT
